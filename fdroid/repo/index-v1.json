@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1651947172000,
+    "timestamp": 1651948273000,
     "version": 20001,
     "name": "My First F-Droid Repo Demo",
     "icon": "icon.png",
@@ -13,23 +13,108 @@
   },
   "apps": [
     {
+      "authorName": "jmir1",
+      "categories": [
+        "Internet"
+      ],
+      "suggestedVersionName": "0.12.3.6",
+      "suggestedVersionCode": "72",
+      "description": "Unofficial fork of Tachiyomi for anime\n",
+      "license": "Apache-2.0",
+      "name": "Aniyomi",
+      "sourceCode": "https://github.com/jmir1/aniyomi",
+      "summary": "Unofficial fork of Tachiyomi for anime",
+      "added": 1651948057000,
+      "packageName": "xyz.jmir.tachiyomi.mi",
+      "lastUpdated": 1651948146000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "changes:\n- many more bug fixes and other improvements\n- automatic tracker status change\n- tweaked theme colours\n- support for mpv as external player\n- fixed fullscreen mode in player for notch phones\n- a lot more, see here: https://github.com/jmir1/aniyomi/compare/v0.12.3.5...v0.12.3.6\n\n---\n\n### Checksums\n\n| Variant | SHA-256 |\n| ------- | ------- |\n| Universal | 5f3c456abe6b1922b4443586a075a70dde8cb0dc6783f35e7be5cee374117c3f\n| arm64-v8a | 086d7ff4f516c0a599db9494816fd84644cd893d9d12556d854bfdd"
+        }
+      }
+    },
+    {
       "authorName": "LagradOst",
       "categories": [
         "Internet"
       ],
       "suggestedVersionName": "2.9.24",
       "suggestedVersionCode": "47",
-      "description": "Android app for streaming and downloading Movies, TV-Series and Anime.\n",
+      "description": "Android app for streaming and downloading Movies, TV-Series and Anime.   \n",
       "license": "GPL-3.0",
       "name": "Cloudstream3",
       "sourceCode": "https://github.com/LagradOst/CloudStream-3",
       "summary": "Android app for streaming and downloading Movies, TV-Series and Anime.",
-      "added": 1651947095000,
+      "added": 1651948148000,
       "packageName": "com.lagradost.cloudstream3",
-      "lastUpdated": 1651947121000,
+      "lastUpdated": 1651948174000,
       "localized": {
         "en-US": {
           "whatsNew": "+ Migrated to material3 UI \n+ Added search bar on homepage\n+ Added poster title option\n+ Added Mal/Anilist sync for some anime sites\n+ Added logcat \ud83d\udc08 \n+ Added providers\n+ Fixed providers\n+ Fixed AndroidTv issues\n+ Fixed resume watching bug (will cause removal of watch history and backup will not help, continue watching and bookmarks will stay)"
+        }
+      }
+    },
+    {
+      "authorName": "Killerpac",
+      "categories": [
+        "Internet"
+      ],
+      "suggestedVersionName": "1.2.0",
+      "suggestedVersionCode": "8",
+      "description": "An Anime Watching App With Better player And Faster Servers\n",
+      "license": "MIT",
+      "name": "Kayuri",
+      "sourceCode": "https://github.com/Killerpac/Kayuri",
+      "summary": "An Anime Watching App With Better player And Faster Servers",
+      "added": 1651948174000,
+      "icon": "net.sanic.Kayuri.8.png",
+      "packageName": "net.sanic.Kayuri",
+      "lastUpdated": 1651948189000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "# v1.2.0\n- Fixed Synopsis Not Showing Properly\n- Server Error Fix Fixed\n- Dark Mode Colour Fixes\n- Added Player Controls\n- Large Devices Player Layout Fix"
+        }
+      }
+    },
+    {
+      "authorName": "deceptions",
+      "categories": [
+        "Internet"
+      ],
+      "suggestedVersionName": "1.2.0",
+      "suggestedVersionCode": "4",
+      "description": "Just another gogoscraper, based on the leaked shiro source code\n",
+      "license": "MIT",
+      "name": "Kuro",
+      "sourceCode": "https://github.com/deceptions/no",
+      "added": 1651948191000,
+      "icon": "com.deceptions.no.tv.4.png",
+      "packageName": "com.deceptions.no.tv",
+      "lastUpdated": 1651948224000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "+ Phone only: Added seek preview (togglable in player settings)\n+ Fixed Vidstream (Gogo) extractor which translates to less 'no links found'"
+        }
+      }
+    },
+    {
+      "authorName": "deceptions",
+      "categories": [
+        "Internet"
+      ],
+      "suggestedVersionName": "1.9.2",
+      "suggestedVersionCode": "4",
+      "description": "Just another gogoscraper, based on the leaked shiro source code\n",
+      "license": "MIT",
+      "name": "Kuro",
+      "sourceCode": "https://github.com/deceptions/no",
+      "added": 1651948192000,
+      "icon": "com.deceptions.no.4.png",
+      "packageName": "com.deceptions.no",
+      "lastUpdated": 1651948218000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "+ Fixed buggy animations\n+ Fixed two player crashes\n+ Layout fixes"
         }
       }
     },
@@ -45,10 +130,10 @@
       "name": "Notality",
       "sourceCode": "https://github.com/xarantolus/notality",
       "summary": "A very simple note taking app for Android",
-      "added": 1651947122000,
+      "added": 1651948225000,
       "icon": "io.github.xarantolus.notality.10.png",
       "packageName": "io.github.xarantolus.notality",
-      "lastUpdated": 1651947134000,
+      "lastUpdated": 1651948237000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -77,9 +162,9 @@
       "name": "Rock It!",
       "sourceCode": "https://github.com/xarantolus/rockit",
       "summary": "Rock It! is an Android app that helps you stay informed on all things space",
-      "added": 1651947135000,
+      "added": 1651948238000,
       "packageName": "io.github.xarantolus.rockit",
-      "lastUpdated": 1651947153000,
+      "lastUpdated": 1651948256000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -102,9 +187,1508 @@
     }
   ],
   "packages": {
+    "com.deceptions.no": [
+      {
+        "added": 1651948192000,
+        "apkName": "kuro_1.1.4.apk",
+        "hash": "419d73c5a4adccf957b09ede2f0a7dce76f1c2c467b66b3abe86e9a373860de1",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.deceptions.no",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 15823919,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.1.4"
+      },
+      {
+        "added": 1651948209000,
+        "apkName": "kuro_1.8.2.apk",
+        "hash": "003eac941a92a284a61bf1fe0dd503a5c2b2592bfee4940e52dba31fc396eadd",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.deceptions.no",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 13344940,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.8.2"
+      },
+      {
+        "added": 1651948218000,
+        "apkName": "kuro_1.9.2.apk",
+        "hash": "637d272f9fc5dbc81f70dfd4c5de1893444d3a30f2ebd3a094d4a639dca74ce8",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.deceptions.no",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 13612725,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.9.2"
+      }
+    ],
+    "com.deceptions.no.tv": [
+      {
+        "added": 1651948194000,
+        "apkName": "kuro_1.2.0.apk",
+        "features": [
+          "android.software.leanback"
+        ],
+        "hash": "637ab30e25fff8361e46a8030d64b5cef106f8f982f20b087167d5c9148172af",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.deceptions.no.tv",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 16011117,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.2.0"
+      },
+      {
+        "added": 1651948195000,
+        "apkName": "kuro_1.2.1.apk",
+        "features": [
+          "android.software.leanback"
+        ],
+        "hash": "6f30724dc30fa38c2023c3431b00fbcb22863d566cfe1158ae98993af746e9e4",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.deceptions.no.tv",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 16010944,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.2.1"
+      },
+      {
+        "added": 1651948197000,
+        "apkName": "kuro_1.2.2.apk",
+        "features": [
+          "android.software.leanback"
+        ],
+        "hash": "952badf75c82c66871e56e5896c2ac59d29216159022a900bf16475214f8deee",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.deceptions.no.tv",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 13861848,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.2.2"
+      },
+      {
+        "added": 1651948198000,
+        "apkName": "kuro_1.2.4.apk",
+        "features": [
+          "android.software.leanback"
+        ],
+        "hash": "a57a6101c8251be6527538760d61471357a0e8770311805df9c408227f463569",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.deceptions.no.tv",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 13867187,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.2.4"
+      },
+      {
+        "added": 1651948200000,
+        "apkName": "kuro_1.3.1.apk",
+        "features": [
+          "android.software.leanback"
+        ],
+        "hash": "99964a94098fba8dff1841235c8e78f1c5a041590930ff86f1e8de395c4a44a4",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.deceptions.no.tv",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 14224709,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.3.1"
+      },
+      {
+        "added": 1651948201000,
+        "apkName": "kuro_1.5.2.apk",
+        "features": [
+          "android.software.leanback"
+        ],
+        "hash": "44f8eadbcb750493d4fd88a3b27375f8f0361a422ffaefaa5f5963ee6f2ab65f",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.deceptions.no.tv",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 14267031,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.5.2"
+      },
+      {
+        "added": 1651948203000,
+        "apkName": "kuro_1.5.5.apk",
+        "features": [
+          "android.software.leanback"
+        ],
+        "hash": "6ea3ae9107c21f408822d56334ee7c897ca9b431d9c5e54cdef2a362571c9977",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.deceptions.no.tv",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 16454057,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.5.5"
+      },
+      {
+        "added": 1651948205000,
+        "apkName": "kuro_1.6.4.apk",
+        "features": [
+          "android.software.leanback"
+        ],
+        "hash": "a11146237c8f714470dcd1904e8b6d809078b6f20a63d518a9713861fa85a505",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.deceptions.no.tv",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 13239863,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.6.4"
+      },
+      {
+        "added": 1651948206000,
+        "apkName": "kuro_1.7.0.apk",
+        "features": [
+          "android.software.leanback"
+        ],
+        "hash": "8892aba2ec0386178e6951be9d5bd7391e8ba697d990afa4c26b7f216a4cdd4c",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.deceptions.no.tv",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 13326329,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.7.0"
+      },
+      {
+        "added": 1651948208000,
+        "apkName": "kuro_1.8.1.apk",
+        "features": [
+          "android.software.leanback"
+        ],
+        "hash": "a70c9fb6717a057344e2fb67aeda5c87e2854ce8a86e4dec3224020fc7a8a369",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.deceptions.no.tv",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 13343622,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.8.1"
+      },
+      {
+        "added": 1651948211000,
+        "apkName": "kuro_1.8.3.apk",
+        "features": [
+          "android.software.leanback"
+        ],
+        "hash": "4ec946a8309bcf4cec42c0b5ac921eacd1a6e3abf01ceabb1530607beb5cbc8c",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.deceptions.no.tv",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 13457848,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.8.3"
+      },
+      {
+        "added": 1651948213000,
+        "apkName": "kuro_1.8.4.apk",
+        "features": [
+          "android.software.leanback"
+        ],
+        "hash": "7290c06a035623d6634c4bf9d30a62b90bf4b6a936eb2ca07f1a1a0470697b32",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.deceptions.no.tv",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 17181286,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.8.4"
+      },
+      {
+        "added": 1651948214000,
+        "apkName": "kuro_1.8.5.apk",
+        "features": [
+          "android.software.leanback"
+        ],
+        "hash": "4ffabdc9cc0f92991f856ba085f9493d9e62e33857914dc5081618fd8a856049",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.deceptions.no.tv",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 13565001,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.8.5"
+      },
+      {
+        "added": 1651948216000,
+        "apkName": "kuro_1.9.1.apk",
+        "features": [
+          "android.software.leanback"
+        ],
+        "hash": "efa77042364d745bc4adbf75123b1ef9c0c4795b04d315cdda3cded47a138d7b",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.deceptions.no.tv",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 13615921,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.9.1"
+      },
+      {
+        "added": 1651948219000,
+        "apkName": "kuro_1.9.3.apk",
+        "features": [
+          "android.software.leanback"
+        ],
+        "hash": "6c02f388a72e265bb35a342d300315671d1f3072dba7efc10940057777d0e355",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.deceptions.no.tv",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 13656698,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "1.9.3"
+      },
+      {
+        "added": 1651948221000,
+        "apkName": "kuro_2.0.1.apk",
+        "features": [
+          "android.software.leanback"
+        ],
+        "hash": "8cf7cea29e09bfd2f7bb90ed1c579aa5fed54d5e185cf34e27579a55a561b26f",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.deceptions.no.tv",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 14076972,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "2.0.1"
+      },
+      {
+        "added": 1651948223000,
+        "apkName": "kuro_2.0.2.apk",
+        "features": [
+          "android.software.leanback"
+        ],
+        "hash": "591f547b35d04c0c6e91a2e9dae8733a8265143a3968ca0a69a497706f92f4af",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.deceptions.no.tv",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 14077430,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "2.0.2"
+      },
+      {
+        "added": 1651948224000,
+        "apkName": "kuro_2.1.1.apk",
+        "features": [
+          "android.software.leanback"
+        ],
+        "hash": "3a7ab12364a5524bd8cbe2dcc5d6504eb4dedeef89d91e72fa6f4d66f0a8b151",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.deceptions.no.tv",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 14223218,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ]
+        ],
+        "versionCode": 4,
+        "versionName": "2.1.1"
+      },
+      {
+        "added": 1651948191000,
+        "apkName": "kuro_1.1.2.apk",
+        "features": [
+          "android.software.leanback"
+        ],
+        "hash": "4dad6418bfccdbfdab4efccd1195a27199bfa9e4d2fe0a4dc4e0a26f82146757",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.deceptions.no.tv",
+        "sig": "0ec4a7894c50765ff23df8cfa46ee9e8",
+        "signer": "b09c5d4a68300428670eed0e8c3ba0499fafd500b6cea97cdb262b749ae4d94e",
+        "size": 15826908,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.MANAGE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ]
+        ],
+        "versionCode": 3,
+        "versionName": "1.1.2"
+      }
+    ],
     "com.lagradost.cloudstream3": [
       {
-        "added": 1651947121000,
+        "added": 1651948174000,
         "apkName": "cloudstream3_v2.9.24.apk",
         "hash": "fc52d00bcf6b07c01cda56d052d7719692a70645f1f39139be7f6348a9fe77be",
         "hashType": "sha256",
@@ -164,7 +1748,7 @@
         "versionName": "2.9.24"
       },
       {
-        "added": 1651947119000,
+        "added": 1651948172000,
         "apkName": "cloudstream3_v2.8.16.apk",
         "hash": "fb5f9faa0d8e95e7714b4040cfe276327306b95efe6377b863188c5b6bbf1266",
         "hashType": "sha256",
@@ -224,7 +1808,7 @@
         "versionName": "2.8.16"
       },
       {
-        "added": 1651947118000,
+        "added": 1651948170000,
         "apkName": "cloudstream3_v2.7.14.apk",
         "hash": "e9196edec72b8896ffda1681436550ffbb2c29ad8cdd80eb8553f332702e3df2",
         "hashType": "sha256",
@@ -290,7 +1874,7 @@
         "versionName": "2.7.14"
       },
       {
-        "added": 1651947095000,
+        "added": 1651948148000,
         "apkName": "cloudstream3_2.6.9.apk",
         "hash": "bf519f655259fbb701f0e440691a6ad212f31a4fa9071873ad782d158eb0e02a",
         "hashType": "sha256",
@@ -348,7 +1932,7 @@
         "versionName": "2.6.9"
       },
       {
-        "added": 1651947116000,
+        "added": 1651948169000,
         "apkName": "cloudstream3_v2.5.8.apk",
         "hash": "52caee389ffa29d921d8930b24e0aa8de26ecbdf06eef5ab49b1f3fd69558ef2",
         "hashType": "sha256",
@@ -406,7 +1990,7 @@
         "versionName": "2.5.8"
       },
       {
-        "added": 1651947114000,
+        "added": 1651948167000,
         "apkName": "cloudstream3_v2.4.7.apk",
         "hash": "45fcc74be7d8be21f66e805aaeb1d6629a402e09ab5613f53f06359287d3b29f",
         "hashType": "sha256",
@@ -464,7 +2048,7 @@
         "versionName": "2.4.7"
       },
       {
-        "added": 1651947111000,
+        "added": 1651948163000,
         "apkName": "cloudstream3_v2.2.3.apk",
         "hash": "f3fac74c6a22df610e90bf9bd58e2accd0759fa136e652987d959961f56eb133",
         "hashType": "sha256",
@@ -522,7 +2106,7 @@
         "versionName": "2.2.3"
       },
       {
-        "added": 1651947113000,
+        "added": 1651948165000,
         "apkName": "cloudstream3_v2.3.3.apk",
         "hash": "31dce4545011af6f7498b444f1e6dca3ae75c6a121a2652968759481b521f816",
         "hashType": "sha256",
@@ -580,7 +2164,7 @@
         "versionName": "2.3.3"
       },
       {
-        "added": 1651947109000,
+        "added": 1651948162000,
         "apkName": "cloudstream3_v2.1.2.apk",
         "hash": "e8ed56a8adabb12bac5f5fc2b3f0c0a7766c6b7e51c4aafc61444b8b602ab1c4",
         "hashType": "sha256",
@@ -638,7 +2222,7 @@
         "versionName": "2.1.2"
       },
       {
-        "added": 1651947108000,
+        "added": 1651948160000,
         "apkName": "cloudstream3_v2.0.0.apk",
         "hash": "964b3348d4781793a87e6742e7511b4b0a28ea0627e92c6b3f5d646bc0923fa3",
         "hashType": "sha256",
@@ -696,7 +2280,7 @@
         "versionName": "2.0.0"
       },
       {
-        "added": 1651947106000,
+        "added": 1651948159000,
         "apkName": "cloudstream3_v1.9.9.apk",
         "hash": "8590f36eb316bdec359bbb4396d52f43cb8142bce8c641c977a82d9883a535ef",
         "hashType": "sha256",
@@ -750,7 +2334,7 @@
         "versionName": "1.9.9"
       },
       {
-        "added": 1651947104000,
+        "added": 1651948157000,
         "apkName": "cloudstream3_v1.7.6.apk",
         "hash": "02e1e8a7a8091e1e2f47335c44e2644f09c18cfcd23c161a37fb2411dc1429a8",
         "hashType": "sha256",
@@ -804,7 +2388,7 @@
         "versionName": "1.7.6"
       },
       {
-        "added": 1651947102000,
+        "added": 1651948155000,
         "apkName": "cloudstream3_v1.7.5.apk",
         "hash": "875193d56851c80ed12ed4b10eb7b338f66564b1db99b40e7e847d48f4ca0d64",
         "hashType": "sha256",
@@ -858,7 +2442,7 @@
         "versionName": "1.7.5"
       },
       {
-        "added": 1651947100000,
+        "added": 1651948153000,
         "apkName": "cloudstream3_v1.5.2.apk",
         "hash": "013afc54d65e48fa7ea9f7c3b400498e664435bae10ea68cbaf6996f1ecaab49",
         "hashType": "sha256",
@@ -912,7 +2496,7 @@
         "versionName": "1.5.2"
       },
       {
-        "added": 1651947099000,
+        "added": 1651948151000,
         "apkName": "cloudstream3_v1.3.0.apk",
         "hash": "9ef46535fc7d7c349f90e1a37a8ec486228c023c693ee2e3b0cb68daca04a0ea",
         "hashType": "sha256",
@@ -966,7 +2550,7 @@
         "versionName": "1.3.0"
       },
       {
-        "added": 1651947097000,
+        "added": 1651948149000,
         "apkName": "cloudstream3_v1.0.0.apk",
         "hash": "ca17e8c63a21640beb216c0dd048b19f85d55609d87cc29aacef6713f1015ccb",
         "hashType": "sha256",
@@ -1022,7 +2606,7 @@
     ],
     "io.github.xarantolus.notality": [
       {
-        "added": 1651947134000,
+        "added": 1651948237000,
         "apkName": "notality_v1.8.1.apk",
         "hash": "a2c14612ca0cac122e2a1c71f9bd3e36bf42dc774dfdb6386cea77238e3c0010",
         "hashType": "sha256",
@@ -1041,7 +2625,7 @@
         "versionName": "1.8.1"
       },
       {
-        "added": 1651947133000,
+        "added": 1651948236000,
         "apkName": "notality_v1.8.0.apk",
         "hash": "9da33a99e9a8041044b060935907985bd644558e6c93efad9721840971f811e2",
         "hashType": "sha256",
@@ -1060,7 +2644,7 @@
         "versionName": "1.8.0"
       },
       {
-        "added": 1651947132000,
+        "added": 1651948236000,
         "apkName": "notality_v1.7.0.apk",
         "hash": "7b48074dc5cda19179af23ec76b04aee217ef2be1df3cd96f2cf919f0a506c6b",
         "hashType": "sha256",
@@ -1079,7 +2663,7 @@
         "versionName": "1.7.0"
       },
       {
-        "added": 1651947132000,
+        "added": 1651948235000,
         "apkName": "notality_v1.6.1.apk",
         "hash": "4086ed6b256f3e25ca40e70a633c720e06d630a617b19741662b0e59b8fe6148",
         "hashType": "sha256",
@@ -1098,7 +2682,7 @@
         "versionName": "1.6.1"
       },
       {
-        "added": 1651947131000,
+        "added": 1651948234000,
         "apkName": "notality_v1.6.0.apk",
         "hash": "40737ccc9f77f76ea8bee95b732be62bbc8de9092d9b7dd2d3fb5073c4b4f102",
         "hashType": "sha256",
@@ -1117,7 +2701,7 @@
         "versionName": "1.6.0"
       },
       {
-        "added": 1651947130000,
+        "added": 1651948233000,
         "apkName": "notality_v1.5.0.apk",
         "hash": "38a43c4dd82a90597592514c456319857a76028f3a8d7b9fe30af766a87980c8",
         "hashType": "sha256",
@@ -1136,7 +2720,7 @@
         "versionName": "1.5.0"
       },
       {
-        "added": 1651947129000,
+        "added": 1651948232000,
         "apkName": "notality_v1.4.3.apk",
         "hash": "321ef6a518804dd8d895f1b75d8ac97bd14367f75eeb2bd7cc5389fbfa425422",
         "hashType": "sha256",
@@ -1155,7 +2739,7 @@
         "versionName": "1.4.3"
       },
       {
-        "added": 1651947128000,
+        "added": 1651948231000,
         "apkName": "notality_v1.4.2.apk",
         "hash": "408a950aea0dd357a74480cf7599467e5e408bbb4fee39872d37e2ebe1eee159",
         "hashType": "sha256",
@@ -1174,7 +2758,7 @@
         "versionName": "1.4.2"
       },
       {
-        "added": 1651947127000,
+        "added": 1651948230000,
         "apkName": "notality_v1.4.1.apk",
         "hash": "30cc88d156bd04285f926d6ebd0a7db1212ff6c0f580c6aa283302c4203a4934",
         "hashType": "sha256",
@@ -1193,7 +2777,7 @@
         "versionName": "1.4.1"
       },
       {
-        "added": 1651947122000,
+        "added": 1651948225000,
         "apkName": "notality_v1.0.0.apk",
         "hash": "ab2781205a0c9a11383099ffe65efc24ed1c7a6d91363c3dcb9a5f607c277b2b",
         "hashType": "sha256",
@@ -1212,7 +2796,7 @@
         "versionName": "1.0.0"
       },
       {
-        "added": 1651947123000,
+        "added": 1651948226000,
         "apkName": "notality_v1.0.1.apk",
         "hash": "d8870de8cb06bec2a97741a16cf2b1c3ddfd6ad12a94cb08076be25ae1c9312f",
         "hashType": "sha256",
@@ -1231,7 +2815,7 @@
         "versionName": "1.0.1"
       },
       {
-        "added": 1651947124000,
+        "added": 1651948227000,
         "apkName": "notality_v1.1.0.apk",
         "hash": "0fea0e3520d0c78b5bdfe58a7126ef08fe35946599708457f34df37245e777b5",
         "hashType": "sha256",
@@ -1250,7 +2834,7 @@
         "versionName": "1.1.0"
       },
       {
-        "added": 1651947125000,
+        "added": 1651948228000,
         "apkName": "notality_v1.2.0.apk",
         "hash": "ba61ec170c9877ff4ce1f3f7cb15f9fb418f82f57c4d3c01553489756a2115c6",
         "hashType": "sha256",
@@ -1269,7 +2853,7 @@
         "versionName": "1.2.0"
       },
       {
-        "added": 1651947126000,
+        "added": 1651948229000,
         "apkName": "notality_v1.3.0.apk",
         "hash": "c443456385cfe89ce3423ed78e73e1fe08bf22d4c76370ef8c5ae62de54a3871",
         "hashType": "sha256",
@@ -1288,7 +2872,7 @@
         "versionName": "1.3.0"
       },
       {
-        "added": 1651947126000,
+        "added": 1651948230000,
         "apkName": "notality_v1.4.0.apk",
         "hash": "e90c0e9372176c33c8a9dcf626fad718d2cd31ddda7f8ae9505c49b77e5a9d4d",
         "hashType": "sha256",
@@ -1309,7 +2893,7 @@
     ],
     "io.github.xarantolus.rockit": [
       {
-        "added": 1651947153000,
+        "added": 1651948256000,
         "apkName": "rockit_v1.5.0.apk",
         "hash": "3e4398a041e11ccc0fe3d1684a36675a821705c6be0c10b56220ba19f44b7acb",
         "hashType": "sha256",
@@ -1362,7 +2946,7 @@
         "versionName": "1.5.0"
       },
       {
-        "added": 1651947152000,
+        "added": 1651948255000,
         "apkName": "rockit_v1.4.0.apk",
         "hash": "33867c58a05b19fb07074095e9c4fd59a066f37ec13c8f9648a12aa0edf03aba",
         "hashType": "sha256",
@@ -1415,7 +2999,7 @@
         "versionName": "1.4.0"
       },
       {
-        "added": 1651947151000,
+        "added": 1651948254000,
         "apkName": "rockit_v1.3.4.apk",
         "hash": "4ac68bb79a0eb2739a263166d40ac5c612a82e61eb180d07813e43dce778678a",
         "hashType": "sha256",
@@ -1468,7 +3052,7 @@
         "versionName": "1.3.4"
       },
       {
-        "added": 1651947150000,
+        "added": 1651948253000,
         "apkName": "rockit_v1.3.3.apk",
         "hash": "871e49d2362b02ae6dbca7a66770ceece1e10568a94d0f730a656b9ecb040892",
         "hashType": "sha256",
@@ -1521,7 +3105,7 @@
         "versionName": "1.3.3"
       },
       {
-        "added": 1651947149000,
+        "added": 1651948252000,
         "apkName": "rockit_v1.3.2.apk",
         "hash": "ebc0050a4bd19212b462537c91087329024ecd0fe56a0b8b78086ea6e71119e9",
         "hashType": "sha256",
@@ -1574,7 +3158,7 @@
         "versionName": "1.3.2"
       },
       {
-        "added": 1651947148000,
+        "added": 1651948251000,
         "apkName": "rockit_v1.3.1.apk",
         "hash": "edc66ead58e6af93f2d498506f1a6f52c33e442773e64c220925b02d4ad13b00",
         "hashType": "sha256",
@@ -1627,7 +3211,7 @@
         "versionName": "1.3.1"
       },
       {
-        "added": 1651947147000,
+        "added": 1651948250000,
         "apkName": "rockit_v1.3.0.apk",
         "hash": "f0786af8d11787f1620ba535e7c5d961ce2c0f5f199af177b3027ce57a1692ea",
         "hashType": "sha256",
@@ -1680,7 +3264,7 @@
         "versionName": "1.3.0"
       },
       {
-        "added": 1651947146000,
+        "added": 1651948249000,
         "apkName": "rockit_v1.2.0.apk",
         "hash": "9bc10b1ddb81571e50cd5eaf274d88817c34d9191091735044a9173055e9030d",
         "hashType": "sha256",
@@ -1733,7 +3317,7 @@
         "versionName": "1.2.0"
       },
       {
-        "added": 1651947145000,
+        "added": 1651948248000,
         "apkName": "rockit_v1.1.0.apk",
         "hash": "496971c9fc5d6ebc58478ee10b85f245760a741282eb2d505ed3dd4d00993e9a",
         "hashType": "sha256",
@@ -1786,7 +3370,7 @@
         "versionName": "1.1.0"
       },
       {
-        "added": 1651947144000,
+        "added": 1651948247000,
         "apkName": "rockit_v1.0.0.apk",
         "hash": "35debc9d1ac17f9c8f41cf6ae6297ca9db26a1e7c4a2e7c668cd0d7d24d3f589",
         "hashType": "sha256",
@@ -1839,7 +3423,7 @@
         "versionName": "1.0.0"
       },
       {
-        "added": 1651947143000,
+        "added": 1651948246000,
         "apkName": "rockit_v0.8.0.apk",
         "hash": "ce683294036f352af0d6140ec51ced4354fa1478439a7233cd6b45764c9cccbe",
         "hashType": "sha256",
@@ -1892,7 +3476,7 @@
         "versionName": "0.8.0"
       },
       {
-        "added": 1651947142000,
+        "added": 1651948246000,
         "apkName": "rockit_v0.7.1.apk",
         "hash": "6f724f9687164a595c72659224ff3960bc02a4923087cf1dfd20a2e6d6556cc0",
         "hashType": "sha256",
@@ -1945,7 +3529,7 @@
         "versionName": "0.7.1"
       },
       {
-        "added": 1651947141000,
+        "added": 1651948245000,
         "apkName": "rockit_v0.6.0.apk",
         "hash": "a42e3d5b92b16e3e5fccd7f8ff138d540c077670185d4332225c1a14d1188dbd",
         "hashType": "sha256",
@@ -1998,7 +3582,7 @@
         "versionName": "0.6.0"
       },
       {
-        "added": 1651947140000,
+        "added": 1651948244000,
         "apkName": "rockit_v0.5.0.apk",
         "hash": "98993a98a0d33c7bfc6fcf3591fe429b3e1defb04e76818f0aeb1b9924d986cf",
         "hashType": "sha256",
@@ -2051,7 +3635,7 @@
         "versionName": "0.5.0"
       },
       {
-        "added": 1651947139000,
+        "added": 1651948243000,
         "apkName": "rockit_v0.4.0.apk",
         "hash": "8db540af4776df573bace68f584c11286377e6cf9c78db059b240661408db8f4",
         "hashType": "sha256",
@@ -2076,7 +3660,7 @@
         "versionName": "0.4.0"
       },
       {
-        "added": 1651947139000,
+        "added": 1651948242000,
         "apkName": "rockit_v0.3.0.apk",
         "hash": "adcbb0bc0f8baf30610a8880f0e7f35d0604b11f4e1c70581bdd12528db2283b",
         "hashType": "sha256",
@@ -2101,7 +3685,7 @@
         "versionName": "0.3.0"
       },
       {
-        "added": 1651947138000,
+        "added": 1651948241000,
         "apkName": "rockit_v0.2.1.apk",
         "hash": "6c689e2f8565005a38edba5a34418ff3a3f1189743c2a378b4adb20352cda805",
         "hashType": "sha256",
@@ -2126,7 +3710,7 @@
         "versionName": "0.2.1"
       },
       {
-        "added": 1651947137000,
+        "added": 1651948240000,
         "apkName": "rockit_v0.2.0.apk",
         "hash": "adc95cfd4983231083e8118b2bc9149712f7f9c844281426b1108c0575112adf",
         "hashType": "sha256",
@@ -2151,7 +3735,7 @@
         "versionName": "0.2.0"
       },
       {
-        "added": 1651947136000,
+        "added": 1651948239000,
         "apkName": "rockit_v0.1.0.apk",
         "hash": "7022ad0d02e05da6915b6ab51a81b9c82118ce6862b9b90f6dadbe152ff13c6b",
         "hashType": "sha256",
@@ -2176,7 +3760,7 @@
         "versionName": "0.1.0"
       },
       {
-        "added": 1651947135000,
+        "added": 1651948238000,
         "apkName": "rockit_v0.0.1.apk",
         "hash": "97bf39c135daa186c0d38465d2d2ac1174d2da3fcbbf41e592024315cf55c19a",
         "hashType": "sha256",
@@ -2199,6 +3783,3287 @@
         ],
         "versionCode": 1,
         "versionName": "0.0.1"
+      }
+    ],
+    "net.sanic.Kayuri": [
+      {
+        "added": 1651948176000,
+        "apkName": "kayuri_v1.2.1.apk",
+        "hash": "c2e208514ca19215ac4d64ae0c76c748592db4cac016adce3e2695ce1d4f5aaa",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "net.sanic.Kayuri",
+        "sig": "03ca512b06f235a1af09c50f127b18af",
+        "signer": "05c561564e7dd1bfba98559bb905febaeeb267790ae90b16438a8b14abbb9eb9",
+        "size": 5064904,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "1.2.1"
+      },
+      {
+        "added": 1651948177000,
+        "apkName": "kayuri_v1.2.apk",
+        "hash": "c56e7b9130786764e2d72fe21203450b7e972682ca665c5cb6541d4770ed9a2b",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "net.sanic.Kayuri",
+        "sig": "03ca512b06f235a1af09c50f127b18af",
+        "signer": "05c561564e7dd1bfba98559bb905febaeeb267790ae90b16438a8b14abbb9eb9",
+        "size": 5064756,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "1.2.0"
+      },
+      {
+        "added": 1651948178000,
+        "apkName": "kayuri_v1.3.0.apk",
+        "hash": "4035eaf7d259cc139044e07980b42678ca613972afd8e33b73e6207e9ede7e71",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "net.sanic.Kayuri",
+        "sig": "03ca512b06f235a1af09c50f127b18af",
+        "signer": "05c561564e7dd1bfba98559bb905febaeeb267790ae90b16438a8b14abbb9eb9",
+        "size": 6838188,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "1.3.0"
+      },
+      {
+        "added": 1651948179000,
+        "apkName": "kayuri_v1.3.1.apk",
+        "hash": "ddba9b1ce2f8be311112454ebd4fc2d846263f35ab48b73bd0887f48bfe60c91",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "net.sanic.Kayuri",
+        "sig": "03ca512b06f235a1af09c50f127b18af",
+        "signer": "05c561564e7dd1bfba98559bb905febaeeb267790ae90b16438a8b14abbb9eb9",
+        "size": 5092406,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "1.3.1"
+      },
+      {
+        "added": 1651948180000,
+        "apkName": "kayuri_v1.4.0.apk",
+        "hash": "acf7ccd4b88501c91c319270294808b234232af59697de295263766696afabd5",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "net.sanic.Kayuri",
+        "sig": "03ca512b06f235a1af09c50f127b18af",
+        "signer": "05c561564e7dd1bfba98559bb905febaeeb267790ae90b16438a8b14abbb9eb9",
+        "size": 5219840,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "1.4.0"
+      },
+      {
+        "added": 1651948181000,
+        "apkName": "kayuri_v1.5.0.apk",
+        "hash": "75f9d6ef19012bccf1813375788dbbc40c3358ba0155c8726ccd15950438354e",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "net.sanic.Kayuri",
+        "sig": "03ca512b06f235a1af09c50f127b18af",
+        "signer": "05c561564e7dd1bfba98559bb905febaeeb267790ae90b16438a8b14abbb9eb9",
+        "size": 5583872,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "1.5.0"
+      },
+      {
+        "added": 1651948182000,
+        "apkName": "kayuri_v1.5.5.apk",
+        "hash": "a2872cbecfc93a1dbfdf824b7230e81c28eb4dc4a3187b46d25e28c826e45d99",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "net.sanic.Kayuri",
+        "sig": "03ca512b06f235a1af09c50f127b18af",
+        "signer": "05c561564e7dd1bfba98559bb905febaeeb267790ae90b16438a8b14abbb9eb9",
+        "size": 5798869,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "1.5.5"
+      },
+      {
+        "added": 1651948183000,
+        "apkName": "kayuri_v1.5.7.apk",
+        "hash": "a32455467d240f43736a8b36b5c7b246007d0d4ad7d545df632515e8e9b4987f",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "net.sanic.Kayuri",
+        "sig": "03ca512b06f235a1af09c50f127b18af",
+        "signer": "05c561564e7dd1bfba98559bb905febaeeb267790ae90b16438a8b14abbb9eb9",
+        "size": 5810125,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "1.5.7"
+      },
+      {
+        "added": 1651948184000,
+        "apkName": "kayuri_v1.6.0.apk",
+        "hash": "21f2b1b4c2614c80e55e87d457ca51b04ddc572c041c264ca58f992390ff3da7",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "net.sanic.Kayuri",
+        "sig": "03ca512b06f235a1af09c50f127b18af",
+        "signer": "05c561564e7dd1bfba98559bb905febaeeb267790ae90b16438a8b14abbb9eb9",
+        "size": 5812149,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "1.6.0"
+      },
+      {
+        "added": 1651948185000,
+        "apkName": "kayuri_v1.6.1.apk",
+        "hash": "fb6aa3b5597c84380eaacf012c90a6ba5b4a693794d38add19c8c4c2dbd73f02",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "net.sanic.Kayuri",
+        "sig": "03ca512b06f235a1af09c50f127b18af",
+        "signer": "05c561564e7dd1bfba98559bb905febaeeb267790ae90b16438a8b14abbb9eb9",
+        "size": 5888414,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "1.6.1"
+      },
+      {
+        "added": 1651948186000,
+        "apkName": "kayuri_v1.6.5.apk",
+        "hash": "c703ce6717153b532e9546c86fc3cde42f4f87ced8fcf905746741dcfbd72a52",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "net.sanic.Kayuri",
+        "sig": "03ca512b06f235a1af09c50f127b18af",
+        "signer": "05c561564e7dd1bfba98559bb905febaeeb267790ae90b16438a8b14abbb9eb9",
+        "size": 8079084,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "1.6.5"
+      },
+      {
+        "added": 1651948187000,
+        "apkName": "kayuri_v1.7.5.apk",
+        "hash": "c0824134fc2c3bf4bf31540e348d9d14c1de08b352e6b5ed1825d033ad8ac081",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "net.sanic.Kayuri",
+        "sig": "03ca512b06f235a1af09c50f127b18af",
+        "signer": "05c561564e7dd1bfba98559bb905febaeeb267790ae90b16438a8b14abbb9eb9",
+        "size": 8082359,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "1.7.5"
+      },
+      {
+        "added": 1651948188000,
+        "apkName": "kayuri_v1.7.7.apk",
+        "hash": "f050bbdee3062bd74c0145df0729e2de0d69219c72237f4c72c548f168b221d0",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "net.sanic.Kayuri",
+        "sig": "03ca512b06f235a1af09c50f127b18af",
+        "signer": "05c561564e7dd1bfba98559bb905febaeeb267790ae90b16438a8b14abbb9eb9",
+        "size": 8082234,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "1.7.7"
+      },
+      {
+        "added": 1651948189000,
+        "apkName": "kayuri_v1.7.8.apk",
+        "hash": "560d8166a1f45ce64d24329c779d88c9c38fca7a68f0eae962557878f000b237",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "net.sanic.Kayuri",
+        "sig": "03ca512b06f235a1af09c50f127b18af",
+        "signer": "05c561564e7dd1bfba98559bb905febaeeb267790ae90b16438a8b14abbb9eb9",
+        "size": 8082358,
+        "targetSdkVersion": 32,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "1.7.8"
+      },
+      {
+        "added": 1651948174000,
+        "apkName": "kayuri_v1.0.0.apk",
+        "hash": "581e7a8fe183cf3d9b51281049200bbe3fef00fb2b87868c70de8e86ffd20ae9",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "net.sanic.Kayuri",
+        "sig": "57bfcd7197db62ee437b14e516d0ec55",
+        "signer": "328240074fa3a5e7661ffd68409ee79ec034d88b59ecd3654861f0637068ed42",
+        "size": 4878586,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "1.0.0"
+      },
+      {
+        "added": 1651948175000,
+        "apkName": "kayuri_v1.2.0.apk",
+        "hash": "6bcd0f8381db753a957e5bddfac1773efb1a372c9cb95748c59573f6dda134b2",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "net.sanic.Kayuri",
+        "sig": "57bfcd7197db62ee437b14e516d0ec55",
+        "signer": "328240074fa3a5e7661ffd68409ee79ec034d88b59ecd3654861f0637068ed42",
+        "size": 4906102,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ]
+        ],
+        "versionCode": 8,
+        "versionName": "1.2.0"
+      }
+    ],
+    "xyz.jmir.tachiyomi.mi": [
+      {
+        "added": 1651948146000,
+        "apkName": "aniyomi_v0.12.3.6.apk",
+        "hash": "086d7ff4f516c0a599db9494816fd84644cd893d9d12556d854bfdd1f063b8e5",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 42310783,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "com.google.android.gms.permission.AD_ID",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 72,
+        "versionName": "0.12.3.6"
+      },
+      {
+        "added": 1651948137000,
+        "apkName": "aniyomi_v0.12.3.3.apk",
+        "hash": "d90fa283f00d9d536a20819ba3c4a6d1350a413102875949d8fc07a62ee0d535",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 41404954,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 71,
+        "versionName": "0.12.3.3"
+      },
+      {
+        "added": 1651948140000,
+        "apkName": "aniyomi_v0.12.3.4.apk",
+        "hash": "ad1bc19b4681a1cae0750699ea725e52563f6f6d783c85089dba4211ca910d35",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 41404954,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 71,
+        "versionName": "0.12.3.4"
+      },
+      {
+        "added": 1651948143000,
+        "apkName": "aniyomi_v0.12.3.5.apk",
+        "hash": "9560ae5fd3e830199ab80b43e89f6645a679141b02768ac4d557861f3329ae19",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 41557119,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 71,
+        "versionName": "0.12.3.5"
+      },
+      {
+        "added": 1651948131000,
+        "apkName": "aniyomi_v0.12.3.1.apk",
+        "hash": "7075d6cceba12bf635cf86a9ebe39e7a0f0a16b9c1a4dfbd491a1df4872e2b3f",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 24149033,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 69,
+        "versionName": "0.12.3.1"
+      },
+      {
+        "added": 1651948134000,
+        "apkName": "aniyomi_v0.12.3.2.apk",
+        "hash": "b6871f6a30271389f36b36cfa95bf3103fafa33b45df24f5abe4ed684a7333ff",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 24166092,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 69,
+        "versionName": "0.12.3.2"
+      },
+      {
+        "added": 1651948119000,
+        "apkName": "aniyomi_v0.12.2.1.apk",
+        "hash": "9ccc1968f1a4cc290b48513e34dc9727dc676ab219a6125d4254f63a58d2e8bf",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 24232532,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 68,
+        "versionName": "0.12.2.3"
+      },
+      {
+        "added": 1651948121000,
+        "apkName": "aniyomi_v0.12.2.2.apk",
+        "hash": "5948d89f925c15ee512c0df240a500cc1ad30b407f077a79854f29b9b310abef",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 24232532,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 68,
+        "versionName": "0.12.2.2"
+      },
+      {
+        "added": 1651948124000,
+        "apkName": "aniyomi_v0.12.2.3.apk",
+        "hash": "ba31e80739ade3b8dd2f8b22dbe31e046e3d59a2a1d29ddcd9068472af5bfec3",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 24228436,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 68,
+        "versionName": "0.12.2.3"
+      },
+      {
+        "added": 1651948126000,
+        "apkName": "aniyomi_v0.12.2.4.apk",
+        "hash": "35b881d7709ac858575aa4e9930f524d7656ad2e3fba61fd1bd13f853d5e7335",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 24281684,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 68,
+        "versionName": "0.12.2.4"
+      },
+      {
+        "added": 1651948129000,
+        "apkName": "aniyomi_v0.12.2.5.apk",
+        "hash": "4725271cb7f9144f45bde3142fdad61eec95d11be0a0a6cc24abc159490f6bb4",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 24095785,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.UPDATE_PACKAGES_WITHOUT_USER_ACTION",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "moe.shizuku.manager.permission.API_V23",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 68,
+        "versionName": "0.12.2.5"
+      },
+      {
+        "added": 1651948111000,
+        "apkName": "aniyomi_v0.12.1.1.apk",
+        "hash": "642603a15da6727d0d70a9eb1a000cc41b2991ed1634cbbacb35c36e971807e6",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 48816523,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 67,
+        "versionName": "0.12.1.1"
+      },
+      {
+        "added": 1651948114000,
+        "apkName": "aniyomi_v0.12.1.2.apk",
+        "hash": "56fd1643c0756295270ba30fbddee4d76e7dcbd5269fbb5c854bc0fe47f9e04e",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 24071460,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 67,
+        "versionName": "0.12.1.2"
+      },
+      {
+        "added": 1651948116000,
+        "apkName": "aniyomi_v0.12.1.3.apk",
+        "hash": "a5688ec1da17bfaf185733e5c6dda39e929c3a45d2e5e69d2761e7602c304783",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 24228436,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 67,
+        "versionName": "0.12.1.3"
+      },
+      {
+        "added": 1651948081000,
+        "apkName": "aniyomi_v0.11.1.10.apk",
+        "hash": "07f9bef5b891062f45e073b1bf87f752bd4a7e1e5dfeb0fcb0fc58adc051f313",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 66925386,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 65,
+        "versionName": "0.11.1.10"
+      },
+      {
+        "added": 1651948085000,
+        "apkName": "aniyomi_v0.11.1.11.apk",
+        "hash": "a359603181125da36a922baaf4ef3080163bbe2f57817ddb99f74378d90d4206",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 66933578,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 65,
+        "versionName": "0.11.1.11"
+      },
+      {
+        "added": 1651948105000,
+        "apkName": "aniyomi_v0.11.1.8.apk",
+        "hash": "698179163aafc2508e966da24612bbfbfb52d7cb9b83f8fef929918e7ebb5c2e",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 41626341,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 64,
+        "versionName": "0.11.1.8"
+      },
+      {
+        "added": 1651948108000,
+        "apkName": "aniyomi_v0.11.1.9.apk",
+        "hash": "14c8507fa26ec67a3e461aef43566668dd4a3630ed1af1f092f49cc624c4f724",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 41626341,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 64,
+        "versionName": "0.11.1.9"
+      },
+      {
+        "added": 1651948075000,
+        "apkName": "aniyomi_v0.11.1.0-mi.apk",
+        "hash": "254a3e5d242e05d47941c95df8bafffe7ae386222ad8898f370c93ad2a32bf05",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 26782534,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 63,
+        "versionName": "0.11.1.0-mi"
+      },
+      {
+        "added": 1651948078000,
+        "apkName": "aniyomi_v0.11.1.1-mi.apk",
+        "hash": "fc0a74369a6ba6699db58df24527ac44b79fe70cfd0bbd6635cbe5713c65a16d",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 26782534,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 63,
+        "versionName": "0.11.1.1-mi"
+      },
+      {
+        "added": 1651948088000,
+        "apkName": "aniyomi_v0.11.1.2-mi.apk",
+        "hash": "37e642b12fa56261fbf887845439fc22074294395ad3409503fcd329138a364e",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 33303882,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 63,
+        "versionName": "0.11.1.2-mi"
+      },
+      {
+        "added": 1651948091000,
+        "apkName": "aniyomi_v0.11.1.3-mi.apk",
+        "hash": "ae7a175b80ffe69d94c3458dc9d08fa26463355a5fa8f1c8e35cfdd525197505",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 41639467,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 63,
+        "versionName": "0.11.1.3-mi"
+      },
+      {
+        "added": 1651948093000,
+        "apkName": "aniyomi_v0.11.1.4-mi.apk",
+        "hash": "967e1d4b1644445ed605d071c3ded5ce552b956392029669bb843f1d58002da8",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 41639467,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 63,
+        "versionName": "0.11.1.4-mi"
+      },
+      {
+        "added": 1651948096000,
+        "apkName": "aniyomi_v0.11.1.5-mi.apk",
+        "hash": "b98e0f9c9ed5b27e3962ca21b5a28f42673a4ae2e2348c32adacbc7894c96e4b",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 41639467,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 63,
+        "versionName": "0.11.1.5-mi"
+      },
+      {
+        "added": 1651948099000,
+        "apkName": "aniyomi_v0.11.1.6-mi.apk",
+        "hash": "f73f110c821c14bfcfcda97ec20986d96fe3b25f936bb85d036f052f96dc898c",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 41643695,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 63,
+        "versionName": "0.11.1.5-mi"
+      },
+      {
+        "added": 1651948102000,
+        "apkName": "aniyomi_v0.11.1.7.apk",
+        "hash": "5b412d7c28a97fd56412a78e8244ae6f9dfbdc6cfcc9e791e813c307e61f597d",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 41639599,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 63,
+        "versionName": "0.11.1.7"
+      },
+      {
+        "added": 1651948060000,
+        "apkName": "aniyomi_v0.10.12-mi.apk",
+        "hash": "8d06570e479e3dc44a08e3191b5782db919b6157f49eacafe055be96d8ba5ef8",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 26488219,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 61,
+        "versionName": "0.10.12-mi"
+      },
+      {
+        "added": 1651948062000,
+        "apkName": "aniyomi_v0.10.12.1-mi.apk",
+        "hash": "06ff3e9b516338c9ebce4d19d1b3fadb7063cfda7d9e60bdfb1615e92318e13e",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 26512643,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 61,
+        "versionName": "0.10.12-mi"
+      },
+      {
+        "added": 1651948065000,
+        "apkName": "aniyomi_v0.10.12.2-mi.apk",
+        "hash": "ea8842c4b61c5fedc4d3bf650a8be56b93ff1a5e00c539273ccf324b6ec67611",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 26520891,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 61,
+        "versionName": "0.10.12.2-mi"
+      },
+      {
+        "added": 1651948067000,
+        "apkName": "aniyomi_v0.10.12.3-mi.apk",
+        "hash": "c84bece8b1d4eefaa4bac985cb88ed90111b3804185fb03b85a3faa1953e9f28",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 26811707,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 61,
+        "versionName": "0.10.12.3-mi"
+      },
+      {
+        "added": 1651948070000,
+        "apkName": "aniyomi_v0.10.12.4-mi.apk",
+        "hash": "46f96530f16aa16681baa3f75704f6ca05216872fd0d22a8196be797c1deb7fa",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 26815803,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 61,
+        "versionName": "0.10.12.4-mi"
+      },
+      {
+        "added": 1651948073000,
+        "apkName": "aniyomi_v0.10.12.5-mi.apk",
+        "hash": "c0d34faa502552030ed72d865585d84534f04bee43df481a53fba78082776f68",
+        "hashType": "sha256",
+        "minSdkVersion": 23,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 26778270,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 61,
+        "versionName": "0.10.12.5-mi"
+      },
+      {
+        "added": 1651948057000,
+        "apkName": "aniyomi_v0.10.11-mi.apk",
+        "hash": "2d931ffe5a8547227b0180008e80a6571ebd76ebfc7a77a892ccbe345dae6281",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86"
+        ],
+        "packageName": "xyz.jmir.tachiyomi.mi",
+        "sig": "da127967dcce8325af2d99ecd5364d87",
+        "signer": "50ab1d1e3a20d204d0ad6d334c7691c632e41b98dfa132bf385695fdfa63839c",
+        "size": 20127167,
+        "targetSdkVersion": 29,
+        "uses-permission": [
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.REQUEST_DELETE_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.QUERY_ALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ]
+        ],
+        "versionCode": 59,
+        "versionName": "0.10.11-mi"
       }
     ]
   }
