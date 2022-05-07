@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1651948273000,
+    "timestamp": 1651951075000,
     "version": 20001,
     "name": "My First F-Droid Repo Demo",
     "icon": "icon.png",
@@ -24,9 +24,9 @@
       "name": "Aniyomi",
       "sourceCode": "https://github.com/jmir1/aniyomi",
       "summary": "Unofficial fork of Tachiyomi for anime",
-      "added": 1651948057000,
+      "added": 1651950873000,
       "packageName": "xyz.jmir.tachiyomi.mi",
-      "lastUpdated": 1651948146000,
+      "lastUpdated": 1651950970000,
       "localized": {
         "en-US": {
           "whatsNew": "changes:\n- many more bug fixes and other improvements\n- automatic tracker status change\n- tweaked theme colours\n- support for mpv as external player\n- fixed fullscreen mode in player for notch phones\n- a lot more, see here: https://github.com/jmir1/aniyomi/compare/v0.12.3.5...v0.12.3.6\n\n---\n\n### Checksums\n\n| Variant | SHA-256 |\n| ------- | ------- |\n| Universal | 5f3c456abe6b1922b4443586a075a70dde8cb0dc6783f35e7be5cee374117c3f\n| arm64-v8a | 086d7ff4f516c0a599db9494816fd84644cd893d9d12556d854bfdd"
@@ -45,9 +45,9 @@
       "name": "Cloudstream3",
       "sourceCode": "https://github.com/LagradOst/CloudStream-3",
       "summary": "Android app for streaming and downloading Movies, TV-Series and Anime.",
-      "added": 1651948148000,
+      "added": 1651950972000,
       "packageName": "com.lagradost.cloudstream3",
-      "lastUpdated": 1651948174000,
+      "lastUpdated": 1651951001000,
       "localized": {
         "en-US": {
           "whatsNew": "+ Migrated to material3 UI \n+ Added search bar on homepage\n+ Added poster title option\n+ Added Mal/Anilist sync for some anime sites\n+ Added logcat \ud83d\udc08 \n+ Added providers\n+ Fixed providers\n+ Fixed AndroidTv issues\n+ Fixed resume watching bug (will cause removal of watch history and backup will not help, continue watching and bookmarks will stay)"
@@ -66,10 +66,10 @@
       "name": "Kayuri",
       "sourceCode": "https://github.com/Killerpac/Kayuri",
       "summary": "An Anime Watching App With Better player And Faster Servers",
-      "added": 1651948174000,
+      "added": 1651951002000,
       "icon": "net.sanic.Kayuri.8.png",
       "packageName": "net.sanic.Kayuri",
-      "lastUpdated": 1651948189000,
+      "lastUpdated": 1651951017000,
       "localized": {
         "en-US": {
           "whatsNew": "# v1.2.0\n- Fixed Synopsis Not Showing Properly\n- Server Error Fix Fixed\n- Dark Mode Colour Fixes\n- Added Player Controls\n- Large Devices Player Layout Fix"
@@ -87,10 +87,10 @@
       "license": "MIT",
       "name": "Kuro",
       "sourceCode": "https://github.com/deceptions/no",
-      "added": 1651948191000,
+      "added": 1651951019000,
       "icon": "com.deceptions.no.tv.4.png",
       "packageName": "com.deceptions.no.tv",
-      "lastUpdated": 1651948224000,
+      "lastUpdated": 1651951055000,
       "localized": {
         "en-US": {
           "whatsNew": "+ Phone only: Added seek preview (togglable in player settings)\n+ Fixed Vidstream (Gogo) extractor which translates to less 'no links found'"
@@ -108,80 +108,13 @@
       "license": "MIT",
       "name": "Kuro",
       "sourceCode": "https://github.com/deceptions/no",
-      "added": 1651948192000,
+      "added": 1651951021000,
       "icon": "com.deceptions.no.4.png",
       "packageName": "com.deceptions.no",
-      "lastUpdated": 1651948218000,
+      "lastUpdated": 1651951048000,
       "localized": {
         "en-US": {
           "whatsNew": "+ Fixed buggy animations\n+ Fixed two player crashes\n+ Layout fixes"
-        }
-      }
-    },
-    {
-      "authorName": "xarantolus",
-      "categories": [
-        "Writing"
-      ],
-      "suggestedVersionName": "1.8.1",
-      "suggestedVersionCode": "10",
-      "description": "Notality is a very simple note taking app. I mostly built it to learn how Flutter works, but it's functional and you can use it.\n\n<b>Features</b>\n\n- Create, edit, delete and reorder notes\n- Automatic dark/light mode depending on the system-wide setting\n- Import/Export your notes to save them externally\n- Localization for English and German\n",
-      "license": "MIT",
-      "name": "Notality",
-      "sourceCode": "https://github.com/xarantolus/notality",
-      "summary": "A very simple note taking app for Android",
-      "added": 1651948225000,
-      "icon": "io.github.xarantolus.notality.10.png",
-      "packageName": "io.github.xarantolus.notality",
-      "lastUpdated": 1651948237000,
-      "localized": {
-        "en-US": {
-          "phoneScreenshots": [
-            "1.png",
-            "2.png",
-            "3.png",
-            "4.png"
-          ],
-          "whatsNew": "I just found out how to make the swipe animation (when deleting a note) a lot better. So this release contains that change."
-        }
-      }
-    },
-    {
-      "antiFeatures": [
-        "NonFreeNet"
-      ],
-      "authorName": "xarantolus",
-      "categories": [
-        "Internet",
-        "Science & Education"
-      ],
-      "suggestedVersionName": "1.5.0",
-      "suggestedVersionCode": "22",
-      "description": "Rock It! helps you stay informed on all things space.\nIt displays upcoming rocket launches and current space news curated by <a href=\"https://thespacedevs.com/\">The Space Devs</a>.\n\n<b>Features</b>\n\n- List upcoming launches and events (e.g. space station activity)\n- Show launch/event details and a countdown (including the date and time in your local timezone)\n- List latest space news articles\n- Subscribe to launches or events to receive notifications before the start or when times are updated\n- Search future events and launches\n- No internet? No problem! The app caches offline content for a few days and updates it when connected to the internet\n\nThe app connects to the Launch Library and Spaceflight News API to get information about launches.\nAdditionality, it might connect to other hosts (e.g. YouTube) to receive video and article thumbnails.\nSince none of these services are free software, it's labeled with \"NonFreeNet\".\n",
-      "license": "MIT",
-      "name": "Rock It!",
-      "sourceCode": "https://github.com/xarantolus/rockit",
-      "summary": "Rock It! is an Android app that helps you stay informed on all things space",
-      "added": 1651948238000,
-      "packageName": "io.github.xarantolus.rockit",
-      "lastUpdated": 1651948256000,
-      "localized": {
-        "en-US": {
-          "phoneScreenshots": [
-            "1.jpg",
-            "10.jpg",
-            "11.jpg",
-            "12.jpg",
-            "2.jpg",
-            "3.jpg",
-            "4.jpg",
-            "5.jpg",
-            "6.jpg",
-            "7.jpg",
-            "8.jpg",
-            "9.jpg"
-          ],
-          "whatsNew": "- Added a search page. You can now search launches and events easily.\n- The launch details page now shows more info on boosters and landings\n- Improve date display for things within the next week\n"
         }
       }
     }
@@ -189,7 +122,7 @@
   "packages": {
     "com.deceptions.no": [
       {
-        "added": 1651948192000,
+        "added": 1651951021000,
         "apkName": "kuro_1.1.4.apk",
         "hash": "419d73c5a4adccf957b09ede2f0a7dce76f1c2c467b66b3abe86e9a373860de1",
         "hashType": "sha256",
@@ -251,7 +184,7 @@
         "versionName": "1.1.4"
       },
       {
-        "added": 1651948209000,
+        "added": 1651951039000,
         "apkName": "kuro_1.8.2.apk",
         "hash": "003eac941a92a284a61bf1fe0dd503a5c2b2592bfee4940e52dba31fc396eadd",
         "hashType": "sha256",
@@ -321,7 +254,7 @@
         "versionName": "1.8.2"
       },
       {
-        "added": 1651948218000,
+        "added": 1651951048000,
         "apkName": "kuro_1.9.2.apk",
         "hash": "637d272f9fc5dbc81f70dfd4c5de1893444d3a30f2ebd3a094d4a639dca74ce8",
         "hashType": "sha256",
@@ -393,7 +326,7 @@
     ],
     "com.deceptions.no.tv": [
       {
-        "added": 1651948194000,
+        "added": 1651951022000,
         "apkName": "kuro_1.2.0.apk",
         "features": [
           "android.software.leanback"
@@ -458,7 +391,7 @@
         "versionName": "1.2.0"
       },
       {
-        "added": 1651948195000,
+        "added": 1651951024000,
         "apkName": "kuro_1.2.1.apk",
         "features": [
           "android.software.leanback"
@@ -523,7 +456,7 @@
         "versionName": "1.2.1"
       },
       {
-        "added": 1651948197000,
+        "added": 1651951026000,
         "apkName": "kuro_1.2.2.apk",
         "features": [
           "android.software.leanback"
@@ -582,7 +515,7 @@
         "versionName": "1.2.2"
       },
       {
-        "added": 1651948198000,
+        "added": 1651951028000,
         "apkName": "kuro_1.2.4.apk",
         "features": [
           "android.software.leanback"
@@ -641,7 +574,7 @@
         "versionName": "1.2.4"
       },
       {
-        "added": 1651948200000,
+        "added": 1651951029000,
         "apkName": "kuro_1.3.1.apk",
         "features": [
           "android.software.leanback"
@@ -700,7 +633,7 @@
         "versionName": "1.3.1"
       },
       {
-        "added": 1651948201000,
+        "added": 1651951031000,
         "apkName": "kuro_1.5.2.apk",
         "features": [
           "android.software.leanback"
@@ -759,7 +692,7 @@
         "versionName": "1.5.2"
       },
       {
-        "added": 1651948203000,
+        "added": 1651951032000,
         "apkName": "kuro_1.5.5.apk",
         "features": [
           "android.software.leanback"
@@ -818,7 +751,7 @@
         "versionName": "1.5.5"
       },
       {
-        "added": 1651948205000,
+        "added": 1651951034000,
         "apkName": "kuro_1.6.4.apk",
         "features": [
           "android.software.leanback"
@@ -891,7 +824,7 @@
         "versionName": "1.6.4"
       },
       {
-        "added": 1651948206000,
+        "added": 1651951036000,
         "apkName": "kuro_1.7.0.apk",
         "features": [
           "android.software.leanback"
@@ -964,7 +897,7 @@
         "versionName": "1.7.0"
       },
       {
-        "added": 1651948208000,
+        "added": 1651951037000,
         "apkName": "kuro_1.8.1.apk",
         "features": [
           "android.software.leanback"
@@ -1037,7 +970,7 @@
         "versionName": "1.8.1"
       },
       {
-        "added": 1651948211000,
+        "added": 1651951041000,
         "apkName": "kuro_1.8.3.apk",
         "features": [
           "android.software.leanback"
@@ -1110,7 +1043,7 @@
         "versionName": "1.8.3"
       },
       {
-        "added": 1651948213000,
+        "added": 1651951043000,
         "apkName": "kuro_1.8.4.apk",
         "features": [
           "android.software.leanback"
@@ -1183,7 +1116,7 @@
         "versionName": "1.8.4"
       },
       {
-        "added": 1651948214000,
+        "added": 1651951044000,
         "apkName": "kuro_1.8.5.apk",
         "features": [
           "android.software.leanback"
@@ -1256,7 +1189,7 @@
         "versionName": "1.8.5"
       },
       {
-        "added": 1651948216000,
+        "added": 1651951046000,
         "apkName": "kuro_1.9.1.apk",
         "features": [
           "android.software.leanback"
@@ -1329,7 +1262,7 @@
         "versionName": "1.9.1"
       },
       {
-        "added": 1651948219000,
+        "added": 1651951050000,
         "apkName": "kuro_1.9.3.apk",
         "features": [
           "android.software.leanback"
@@ -1402,7 +1335,7 @@
         "versionName": "1.9.3"
       },
       {
-        "added": 1651948221000,
+        "added": 1651951051000,
         "apkName": "kuro_2.0.1.apk",
         "features": [
           "android.software.leanback"
@@ -1475,7 +1408,7 @@
         "versionName": "2.0.1"
       },
       {
-        "added": 1651948223000,
+        "added": 1651951053000,
         "apkName": "kuro_2.0.2.apk",
         "features": [
           "android.software.leanback"
@@ -1548,7 +1481,7 @@
         "versionName": "2.0.2"
       },
       {
-        "added": 1651948224000,
+        "added": 1651951055000,
         "apkName": "kuro_2.1.1.apk",
         "features": [
           "android.software.leanback"
@@ -1621,7 +1554,7 @@
         "versionName": "2.1.1"
       },
       {
-        "added": 1651948191000,
+        "added": 1651951019000,
         "apkName": "kuro_1.1.2.apk",
         "features": [
           "android.software.leanback"
@@ -1688,7 +1621,7 @@
     ],
     "com.lagradost.cloudstream3": [
       {
-        "added": 1651948174000,
+        "added": 1651951001000,
         "apkName": "cloudstream3_v2.9.24.apk",
         "hash": "fc52d00bcf6b07c01cda56d052d7719692a70645f1f39139be7f6348a9fe77be",
         "hashType": "sha256",
@@ -1748,7 +1681,7 @@
         "versionName": "2.9.24"
       },
       {
-        "added": 1651948172000,
+        "added": 1651950999000,
         "apkName": "cloudstream3_v2.8.16.apk",
         "hash": "fb5f9faa0d8e95e7714b4040cfe276327306b95efe6377b863188c5b6bbf1266",
         "hashType": "sha256",
@@ -1808,7 +1741,7 @@
         "versionName": "2.8.16"
       },
       {
-        "added": 1651948170000,
+        "added": 1651950997000,
         "apkName": "cloudstream3_v2.7.14.apk",
         "hash": "e9196edec72b8896ffda1681436550ffbb2c29ad8cdd80eb8553f332702e3df2",
         "hashType": "sha256",
@@ -1874,7 +1807,7 @@
         "versionName": "2.7.14"
       },
       {
-        "added": 1651948148000,
+        "added": 1651950972000,
         "apkName": "cloudstream3_2.6.9.apk",
         "hash": "bf519f655259fbb701f0e440691a6ad212f31a4fa9071873ad782d158eb0e02a",
         "hashType": "sha256",
@@ -1932,7 +1865,7 @@
         "versionName": "2.6.9"
       },
       {
-        "added": 1651948169000,
+        "added": 1651950995000,
         "apkName": "cloudstream3_v2.5.8.apk",
         "hash": "52caee389ffa29d921d8930b24e0aa8de26ecbdf06eef5ab49b1f3fd69558ef2",
         "hashType": "sha256",
@@ -1990,7 +1923,7 @@
         "versionName": "2.5.8"
       },
       {
-        "added": 1651948167000,
+        "added": 1651950993000,
         "apkName": "cloudstream3_v2.4.7.apk",
         "hash": "45fcc74be7d8be21f66e805aaeb1d6629a402e09ab5613f53f06359287d3b29f",
         "hashType": "sha256",
@@ -2048,7 +1981,7 @@
         "versionName": "2.4.7"
       },
       {
-        "added": 1651948163000,
+        "added": 1651950989000,
         "apkName": "cloudstream3_v2.2.3.apk",
         "hash": "f3fac74c6a22df610e90bf9bd58e2accd0759fa136e652987d959961f56eb133",
         "hashType": "sha256",
@@ -2106,7 +2039,7 @@
         "versionName": "2.2.3"
       },
       {
-        "added": 1651948165000,
+        "added": 1651950991000,
         "apkName": "cloudstream3_v2.3.3.apk",
         "hash": "31dce4545011af6f7498b444f1e6dca3ae75c6a121a2652968759481b521f816",
         "hashType": "sha256",
@@ -2164,7 +2097,7 @@
         "versionName": "2.3.3"
       },
       {
-        "added": 1651948162000,
+        "added": 1651950988000,
         "apkName": "cloudstream3_v2.1.2.apk",
         "hash": "e8ed56a8adabb12bac5f5fc2b3f0c0a7766c6b7e51c4aafc61444b8b602ab1c4",
         "hashType": "sha256",
@@ -2222,7 +2155,7 @@
         "versionName": "2.1.2"
       },
       {
-        "added": 1651948160000,
+        "added": 1651950986000,
         "apkName": "cloudstream3_v2.0.0.apk",
         "hash": "964b3348d4781793a87e6742e7511b4b0a28ea0627e92c6b3f5d646bc0923fa3",
         "hashType": "sha256",
@@ -2280,7 +2213,7 @@
         "versionName": "2.0.0"
       },
       {
-        "added": 1651948159000,
+        "added": 1651950984000,
         "apkName": "cloudstream3_v1.9.9.apk",
         "hash": "8590f36eb316bdec359bbb4396d52f43cb8142bce8c641c977a82d9883a535ef",
         "hashType": "sha256",
@@ -2334,7 +2267,7 @@
         "versionName": "1.9.9"
       },
       {
-        "added": 1651948157000,
+        "added": 1651950982000,
         "apkName": "cloudstream3_v1.7.6.apk",
         "hash": "02e1e8a7a8091e1e2f47335c44e2644f09c18cfcd23c161a37fb2411dc1429a8",
         "hashType": "sha256",
@@ -2388,7 +2321,7 @@
         "versionName": "1.7.6"
       },
       {
-        "added": 1651948155000,
+        "added": 1651950979000,
         "apkName": "cloudstream3_v1.7.5.apk",
         "hash": "875193d56851c80ed12ed4b10eb7b338f66564b1db99b40e7e847d48f4ca0d64",
         "hashType": "sha256",
@@ -2442,7 +2375,7 @@
         "versionName": "1.7.5"
       },
       {
-        "added": 1651948153000,
+        "added": 1651950977000,
         "apkName": "cloudstream3_v1.5.2.apk",
         "hash": "013afc54d65e48fa7ea9f7c3b400498e664435bae10ea68cbaf6996f1ecaab49",
         "hashType": "sha256",
@@ -2496,7 +2429,7 @@
         "versionName": "1.5.2"
       },
       {
-        "added": 1651948151000,
+        "added": 1651950976000,
         "apkName": "cloudstream3_v1.3.0.apk",
         "hash": "9ef46535fc7d7c349f90e1a37a8ec486228c023c693ee2e3b0cb68daca04a0ea",
         "hashType": "sha256",
@@ -2550,7 +2483,7 @@
         "versionName": "1.3.0"
       },
       {
-        "added": 1651948149000,
+        "added": 1651950974000,
         "apkName": "cloudstream3_v1.0.0.apk",
         "hash": "ca17e8c63a21640beb216c0dd048b19f85d55609d87cc29aacef6713f1015ccb",
         "hashType": "sha256",
@@ -2604,1190 +2537,9 @@
         "versionName": "1.0.0"
       }
     ],
-    "io.github.xarantolus.notality": [
-      {
-        "added": 1651948237000,
-        "apkName": "notality_v1.8.1.apk",
-        "hash": "a2c14612ca0cac122e2a1c71f9bd3e36bf42dc774dfdb6386cea77238e3c0010",
-        "hashType": "sha256",
-        "minSdkVersion": 19,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.notality",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 19970355,
-        "targetSdkVersion": 30,
-        "versionCode": 10,
-        "versionName": "1.8.1"
-      },
-      {
-        "added": 1651948236000,
-        "apkName": "notality_v1.8.0.apk",
-        "hash": "9da33a99e9a8041044b060935907985bd644558e6c93efad9721840971f811e2",
-        "hashType": "sha256",
-        "minSdkVersion": 19,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.notality",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 19941818,
-        "targetSdkVersion": 30,
-        "versionCode": 9,
-        "versionName": "1.8.0"
-      },
-      {
-        "added": 1651948236000,
-        "apkName": "notality_v1.7.0.apk",
-        "hash": "7b48074dc5cda19179af23ec76b04aee217ef2be1df3cd96f2cf919f0a506c6b",
-        "hashType": "sha256",
-        "minSdkVersion": 19,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.notality",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 19940101,
-        "targetSdkVersion": 30,
-        "versionCode": 8,
-        "versionName": "1.7.0"
-      },
-      {
-        "added": 1651948235000,
-        "apkName": "notality_v1.6.1.apk",
-        "hash": "4086ed6b256f3e25ca40e70a633c720e06d630a617b19741662b0e59b8fe6148",
-        "hashType": "sha256",
-        "minSdkVersion": 19,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.notality",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 19940607,
-        "targetSdkVersion": 30,
-        "versionCode": 7,
-        "versionName": "1.6.1"
-      },
-      {
-        "added": 1651948234000,
-        "apkName": "notality_v1.6.0.apk",
-        "hash": "40737ccc9f77f76ea8bee95b732be62bbc8de9092d9b7dd2d3fb5073c4b4f102",
-        "hashType": "sha256",
-        "minSdkVersion": 19,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.notality",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 19941052,
-        "targetSdkVersion": 30,
-        "versionCode": 6,
-        "versionName": "1.6.0"
-      },
-      {
-        "added": 1651948233000,
-        "apkName": "notality_v1.5.0.apk",
-        "hash": "38a43c4dd82a90597592514c456319857a76028f3a8d7b9fe30af766a87980c8",
-        "hashType": "sha256",
-        "minSdkVersion": 19,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.notality",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 19773651,
-        "targetSdkVersion": 30,
-        "versionCode": 5,
-        "versionName": "1.5.0"
-      },
-      {
-        "added": 1651948232000,
-        "apkName": "notality_v1.4.3.apk",
-        "hash": "321ef6a518804dd8d895f1b75d8ac97bd14367f75eeb2bd7cc5389fbfa425422",
-        "hashType": "sha256",
-        "minSdkVersion": 19,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.notality",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 19774565,
-        "targetSdkVersion": 30,
-        "versionCode": 4,
-        "versionName": "1.4.3"
-      },
-      {
-        "added": 1651948231000,
-        "apkName": "notality_v1.4.2.apk",
-        "hash": "408a950aea0dd357a74480cf7599467e5e408bbb4fee39872d37e2ebe1eee159",
-        "hashType": "sha256",
-        "minSdkVersion": 19,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.notality",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 19775200,
-        "targetSdkVersion": 30,
-        "versionCode": 3,
-        "versionName": "1.4.2"
-      },
-      {
-        "added": 1651948230000,
-        "apkName": "notality_v1.4.1.apk",
-        "hash": "30cc88d156bd04285f926d6ebd0a7db1212ff6c0f580c6aa283302c4203a4934",
-        "hashType": "sha256",
-        "minSdkVersion": 19,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.notality",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 19775056,
-        "targetSdkVersion": 30,
-        "versionCode": 2,
-        "versionName": "1.4.1"
-      },
-      {
-        "added": 1651948225000,
-        "apkName": "notality_v1.0.0.apk",
-        "hash": "ab2781205a0c9a11383099ffe65efc24ed1c7a6d91363c3dcb9a5f607c277b2b",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.notality",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 18672232,
-        "targetSdkVersion": 30,
-        "versionCode": 1,
-        "versionName": "1.0.0"
-      },
-      {
-        "added": 1651948226000,
-        "apkName": "notality_v1.0.1.apk",
-        "hash": "d8870de8cb06bec2a97741a16cf2b1c3ddfd6ad12a94cb08076be25ae1c9312f",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.notality",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 18678190,
-        "targetSdkVersion": 30,
-        "versionCode": 1,
-        "versionName": "1.0.1"
-      },
-      {
-        "added": 1651948227000,
-        "apkName": "notality_v1.1.0.apk",
-        "hash": "0fea0e3520d0c78b5bdfe58a7126ef08fe35946599708457f34df37245e777b5",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.notality",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 18777264,
-        "targetSdkVersion": 30,
-        "versionCode": 1,
-        "versionName": "1.1.0"
-      },
-      {
-        "added": 1651948228000,
-        "apkName": "notality_v1.2.0.apk",
-        "hash": "ba61ec170c9877ff4ce1f3f7cb15f9fb418f82f57c4d3c01553489756a2115c6",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.notality",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 19540674,
-        "targetSdkVersion": 30,
-        "versionCode": 1,
-        "versionName": "1.2.0"
-      },
-      {
-        "added": 1651948229000,
-        "apkName": "notality_v1.3.0.apk",
-        "hash": "c443456385cfe89ce3423ed78e73e1fe08bf22d4c76370ef8c5ae62de54a3871",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.notality",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 19657134,
-        "targetSdkVersion": 30,
-        "versionCode": 1,
-        "versionName": "1.3.0"
-      },
-      {
-        "added": 1651948230000,
-        "apkName": "notality_v1.4.0.apk",
-        "hash": "e90c0e9372176c33c8a9dcf626fad718d2cd31ddda7f8ae9505c49b77e5a9d4d",
-        "hashType": "sha256",
-        "minSdkVersion": 19,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.notality",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 19775057,
-        "targetSdkVersion": 30,
-        "versionCode": 1,
-        "versionName": "1.4.0"
-      }
-    ],
-    "io.github.xarantolus.rockit": [
-      {
-        "added": 1651948256000,
-        "apkName": "rockit_v1.5.0.apk",
-        "hash": "3e4398a041e11ccc0fe3d1684a36675a821705c6be0c10b56220ba19f44b7acb",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 22127966,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 22,
-        "versionName": "1.5.0"
-      },
-      {
-        "added": 1651948255000,
-        "apkName": "rockit_v1.4.0.apk",
-        "hash": "33867c58a05b19fb07074095e9c4fd59a066f37ec13c8f9648a12aa0edf03aba",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 21008745,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 21,
-        "versionName": "1.4.0"
-      },
-      {
-        "added": 1651948254000,
-        "apkName": "rockit_v1.3.4.apk",
-        "hash": "4ac68bb79a0eb2739a263166d40ac5c612a82e61eb180d07813e43dce778678a",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 20941813,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 20,
-        "versionName": "1.3.4"
-      },
-      {
-        "added": 1651948253000,
-        "apkName": "rockit_v1.3.3.apk",
-        "hash": "871e49d2362b02ae6dbca7a66770ceece1e10568a94d0f730a656b9ecb040892",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 20911143,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 19,
-        "versionName": "1.3.3"
-      },
-      {
-        "added": 1651948252000,
-        "apkName": "rockit_v1.3.2.apk",
-        "hash": "ebc0050a4bd19212b462537c91087329024ecd0fe56a0b8b78086ea6e71119e9",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 20923848,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 18,
-        "versionName": "1.3.2"
-      },
-      {
-        "added": 1651948251000,
-        "apkName": "rockit_v1.3.1.apk",
-        "hash": "edc66ead58e6af93f2d498506f1a6f52c33e442773e64c220925b02d4ad13b00",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 20918211,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 17,
-        "versionName": "1.3.1"
-      },
-      {
-        "added": 1651948250000,
-        "apkName": "rockit_v1.3.0.apk",
-        "hash": "f0786af8d11787f1620ba535e7c5d961ce2c0f5f199af177b3027ce57a1692ea",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 20369681,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 16,
-        "versionName": "1.3.0"
-      },
-      {
-        "added": 1651948249000,
-        "apkName": "rockit_v1.2.0.apk",
-        "hash": "9bc10b1ddb81571e50cd5eaf274d88817c34d9191091735044a9173055e9030d",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 20368979,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 15,
-        "versionName": "1.2.0"
-      },
-      {
-        "added": 1651948248000,
-        "apkName": "rockit_v1.1.0.apk",
-        "hash": "496971c9fc5d6ebc58478ee10b85f245760a741282eb2d505ed3dd4d00993e9a",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 20364274,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 14,
-        "versionName": "1.1.0"
-      },
-      {
-        "added": 1651948247000,
-        "apkName": "rockit_v1.0.0.apk",
-        "hash": "35debc9d1ac17f9c8f41cf6ae6297ca9db26a1e7c4a2e7c668cd0d7d24d3f589",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 20455227,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 13,
-        "versionName": "1.0.0"
-      },
-      {
-        "added": 1651948246000,
-        "apkName": "rockit_v0.8.0.apk",
-        "hash": "ce683294036f352af0d6140ec51ced4354fa1478439a7233cd6b45764c9cccbe",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 20426621,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 12,
-        "versionName": "0.8.0"
-      },
-      {
-        "added": 1651948246000,
-        "apkName": "rockit_v0.7.1.apk",
-        "hash": "6f724f9687164a595c72659224ff3960bc02a4923087cf1dfd20a2e6d6556cc0",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 20406845,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 11,
-        "versionName": "0.7.1"
-      },
-      {
-        "added": 1651948245000,
-        "apkName": "rockit_v0.6.0.apk",
-        "hash": "a42e3d5b92b16e3e5fccd7f8ff138d540c077670185d4332225c1a14d1188dbd",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 20397808,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 9,
-        "versionName": "0.6.0"
-      },
-      {
-        "added": 1651948244000,
-        "apkName": "rockit_v0.5.0.apk",
-        "hash": "98993a98a0d33c7bfc6fcf3591fe429b3e1defb04e76818f0aeb1b9924d986cf",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 20380432,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.USE_FULL_SCREEN_INTENT",
-            null
-          ],
-          [
-            "android.permission.SCHEDULE_EXACT_ALARM",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 8,
-        "versionName": "0.5.0"
-      },
-      {
-        "added": 1651948243000,
-        "apkName": "rockit_v0.4.0.apk",
-        "hash": "8db540af4776df573bace68f584c11286377e6cf9c78db059b240661408db8f4",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 19333913,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ]
-        ],
-        "versionCode": 7,
-        "versionName": "0.4.0"
-      },
-      {
-        "added": 1651948242000,
-        "apkName": "rockit_v0.3.0.apk",
-        "hash": "adcbb0bc0f8baf30610a8880f0e7f35d0604b11f4e1c70581bdd12528db2283b",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 19251106,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ]
-        ],
-        "versionCode": 6,
-        "versionName": "0.3.0"
-      },
-      {
-        "added": 1651948241000,
-        "apkName": "rockit_v0.2.1.apk",
-        "hash": "6c689e2f8565005a38edba5a34418ff3a3f1189743c2a378b4adb20352cda805",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 19227280,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ]
-        ],
-        "versionCode": 4,
-        "versionName": "0.2.1"
-      },
-      {
-        "added": 1651948240000,
-        "apkName": "rockit_v0.2.0.apk",
-        "hash": "adc95cfd4983231083e8118b2bc9149712f7f9c844281426b1108c0575112adf",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 19219607,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ]
-        ],
-        "versionCode": 3,
-        "versionName": "0.2.0"
-      },
-      {
-        "added": 1651948239000,
-        "apkName": "rockit_v0.1.0.apk",
-        "hash": "7022ad0d02e05da6915b6ab51a81b9c82118ce6862b9b90f6dadbe152ff13c6b",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 19209715,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ]
-        ],
-        "versionCode": 2,
-        "versionName": "0.1.0"
-      },
-      {
-        "added": 1651948238000,
-        "apkName": "rockit_v0.0.1.apk",
-        "hash": "97bf39c135daa186c0d38465d2d2ac1174d2da3fcbbf41e592024315cf55c19a",
-        "hashType": "sha256",
-        "minSdkVersion": 16,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
-        ],
-        "packageName": "io.github.xarantolus.rockit",
-        "sig": "3b6c475d25514f30dc14013a39dacf32",
-        "signer": "131be35ae151d89f742eb1ad42fe18e78c878b07941e86a6ee36ab69b2ff72a6",
-        "size": 19193714,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ]
-        ],
-        "versionCode": 1,
-        "versionName": "0.0.1"
-      }
-    ],
     "net.sanic.Kayuri": [
       {
-        "added": 1651948176000,
+        "added": 1651951003000,
         "apkName": "kayuri_v1.2.1.apk",
         "hash": "c2e208514ca19215ac4d64ae0c76c748592db4cac016adce3e2695ce1d4f5aaa",
         "hashType": "sha256",
@@ -3826,7 +2578,7 @@
         "versionName": "1.2.1"
       },
       {
-        "added": 1651948177000,
+        "added": 1651951004000,
         "apkName": "kayuri_v1.2.apk",
         "hash": "c56e7b9130786764e2d72fe21203450b7e972682ca665c5cb6541d4770ed9a2b",
         "hashType": "sha256",
@@ -3865,7 +2617,7 @@
         "versionName": "1.2.0"
       },
       {
-        "added": 1651948178000,
+        "added": 1651951005000,
         "apkName": "kayuri_v1.3.0.apk",
         "hash": "4035eaf7d259cc139044e07980b42678ca613972afd8e33b73e6207e9ede7e71",
         "hashType": "sha256",
@@ -3900,7 +2652,7 @@
         "versionName": "1.3.0"
       },
       {
-        "added": 1651948179000,
+        "added": 1651951006000,
         "apkName": "kayuri_v1.3.1.apk",
         "hash": "ddba9b1ce2f8be311112454ebd4fc2d846263f35ab48b73bd0887f48bfe60c91",
         "hashType": "sha256",
@@ -3935,7 +2687,7 @@
         "versionName": "1.3.1"
       },
       {
-        "added": 1651948180000,
+        "added": 1651951007000,
         "apkName": "kayuri_v1.4.0.apk",
         "hash": "acf7ccd4b88501c91c319270294808b234232af59697de295263766696afabd5",
         "hashType": "sha256",
@@ -3970,7 +2722,7 @@
         "versionName": "1.4.0"
       },
       {
-        "added": 1651948181000,
+        "added": 1651951008000,
         "apkName": "kayuri_v1.5.0.apk",
         "hash": "75f9d6ef19012bccf1813375788dbbc40c3358ba0155c8726ccd15950438354e",
         "hashType": "sha256",
@@ -4005,7 +2757,7 @@
         "versionName": "1.5.0"
       },
       {
-        "added": 1651948182000,
+        "added": 1651951009000,
         "apkName": "kayuri_v1.5.5.apk",
         "hash": "a2872cbecfc93a1dbfdf824b7230e81c28eb4dc4a3187b46d25e28c826e45d99",
         "hashType": "sha256",
@@ -4040,7 +2792,7 @@
         "versionName": "1.5.5"
       },
       {
-        "added": 1651948183000,
+        "added": 1651951011000,
         "apkName": "kayuri_v1.5.7.apk",
         "hash": "a32455467d240f43736a8b36b5c7b246007d0d4ad7d545df632515e8e9b4987f",
         "hashType": "sha256",
@@ -4075,7 +2827,7 @@
         "versionName": "1.5.7"
       },
       {
-        "added": 1651948184000,
+        "added": 1651951012000,
         "apkName": "kayuri_v1.6.0.apk",
         "hash": "21f2b1b4c2614c80e55e87d457ca51b04ddc572c041c264ca58f992390ff3da7",
         "hashType": "sha256",
@@ -4110,7 +2862,7 @@
         "versionName": "1.6.0"
       },
       {
-        "added": 1651948185000,
+        "added": 1651951013000,
         "apkName": "kayuri_v1.6.1.apk",
         "hash": "fb6aa3b5597c84380eaacf012c90a6ba5b4a693794d38add19c8c4c2dbd73f02",
         "hashType": "sha256",
@@ -4145,7 +2897,7 @@
         "versionName": "1.6.1"
       },
       {
-        "added": 1651948186000,
+        "added": 1651951014000,
         "apkName": "kayuri_v1.6.5.apk",
         "hash": "c703ce6717153b532e9546c86fc3cde42f4f87ced8fcf905746741dcfbd72a52",
         "hashType": "sha256",
@@ -4180,7 +2932,7 @@
         "versionName": "1.6.5"
       },
       {
-        "added": 1651948187000,
+        "added": 1651951015000,
         "apkName": "kayuri_v1.7.5.apk",
         "hash": "c0824134fc2c3bf4bf31540e348d9d14c1de08b352e6b5ed1825d033ad8ac081",
         "hashType": "sha256",
@@ -4215,7 +2967,7 @@
         "versionName": "1.7.5"
       },
       {
-        "added": 1651948188000,
+        "added": 1651951016000,
         "apkName": "kayuri_v1.7.7.apk",
         "hash": "f050bbdee3062bd74c0145df0729e2de0d69219c72237f4c72c548f168b221d0",
         "hashType": "sha256",
@@ -4250,7 +3002,7 @@
         "versionName": "1.7.7"
       },
       {
-        "added": 1651948189000,
+        "added": 1651951017000,
         "apkName": "kayuri_v1.7.8.apk",
         "hash": "560d8166a1f45ce64d24329c779d88c9c38fca7a68f0eae962557878f000b237",
         "hashType": "sha256",
@@ -4285,7 +3037,7 @@
         "versionName": "1.7.8"
       },
       {
-        "added": 1651948174000,
+        "added": 1651951002000,
         "apkName": "kayuri_v1.0.0.apk",
         "hash": "581e7a8fe183cf3d9b51281049200bbe3fef00fb2b87868c70de8e86ffd20ae9",
         "hashType": "sha256",
@@ -4312,7 +3064,7 @@
         "versionName": "1.0.0"
       },
       {
-        "added": 1651948175000,
+        "added": 1651951002000,
         "apkName": "kayuri_v1.2.0.apk",
         "hash": "6bcd0f8381db753a957e5bddfac1773efb1a372c9cb95748c59573f6dda134b2",
         "hashType": "sha256",
@@ -4341,7 +3093,7 @@
     ],
     "xyz.jmir.tachiyomi.mi": [
       {
-        "added": 1651948146000,
+        "added": 1651950970000,
         "apkName": "aniyomi_v0.12.3.6.apk",
         "hash": "086d7ff4f516c0a599db9494816fd84644cd893d9d12556d854bfdd1f063b8e5",
         "hashType": "sha256",
@@ -4432,7 +3184,7 @@
         "versionName": "0.12.3.6"
       },
       {
-        "added": 1651948137000,
+        "added": 1651950960000,
         "apkName": "aniyomi_v0.12.3.3.apk",
         "hash": "d90fa283f00d9d536a20819ba3c4a6d1350a413102875949d8fc07a62ee0d535",
         "hashType": "sha256",
@@ -4519,7 +3271,7 @@
         "versionName": "0.12.3.3"
       },
       {
-        "added": 1651948140000,
+        "added": 1651950963000,
         "apkName": "aniyomi_v0.12.3.4.apk",
         "hash": "ad1bc19b4681a1cae0750699ea725e52563f6f6d783c85089dba4211ca910d35",
         "hashType": "sha256",
@@ -4606,7 +3358,7 @@
         "versionName": "0.12.3.4"
       },
       {
-        "added": 1651948143000,
+        "added": 1651950967000,
         "apkName": "aniyomi_v0.12.3.5.apk",
         "hash": "9560ae5fd3e830199ab80b43e89f6645a679141b02768ac4d557861f3329ae19",
         "hashType": "sha256",
@@ -4693,7 +3445,7 @@
         "versionName": "0.12.3.5"
       },
       {
-        "added": 1651948131000,
+        "added": 1651950954000,
         "apkName": "aniyomi_v0.12.3.1.apk",
         "hash": "7075d6cceba12bf635cf86a9ebe39e7a0f0a16b9c1a4dfbd491a1df4872e2b3f",
         "hashType": "sha256",
@@ -4780,7 +3532,7 @@
         "versionName": "0.12.3.1"
       },
       {
-        "added": 1651948134000,
+        "added": 1651950956000,
         "apkName": "aniyomi_v0.12.3.2.apk",
         "hash": "b6871f6a30271389f36b36cfa95bf3103fafa33b45df24f5abe4ed684a7333ff",
         "hashType": "sha256",
@@ -4867,7 +3619,7 @@
         "versionName": "0.12.3.2"
       },
       {
-        "added": 1651948119000,
+        "added": 1651950939000,
         "apkName": "aniyomi_v0.12.2.1.apk",
         "hash": "9ccc1968f1a4cc290b48513e34dc9727dc676ab219a6125d4254f63a58d2e8bf",
         "hashType": "sha256",
@@ -4946,7 +3698,7 @@
         "versionName": "0.12.2.3"
       },
       {
-        "added": 1651948121000,
+        "added": 1651950942000,
         "apkName": "aniyomi_v0.12.2.2.apk",
         "hash": "5948d89f925c15ee512c0df240a500cc1ad30b407f077a79854f29b9b310abef",
         "hashType": "sha256",
@@ -5025,7 +3777,7 @@
         "versionName": "0.12.2.2"
       },
       {
-        "added": 1651948124000,
+        "added": 1651950945000,
         "apkName": "aniyomi_v0.12.2.3.apk",
         "hash": "ba31e80739ade3b8dd2f8b22dbe31e046e3d59a2a1d29ddcd9068472af5bfec3",
         "hashType": "sha256",
@@ -5104,7 +3856,7 @@
         "versionName": "0.12.2.3"
       },
       {
-        "added": 1651948126000,
+        "added": 1651950948000,
         "apkName": "aniyomi_v0.12.2.4.apk",
         "hash": "35b881d7709ac858575aa4e9930f524d7656ad2e3fba61fd1bd13f853d5e7335",
         "hashType": "sha256",
@@ -5191,7 +3943,7 @@
         "versionName": "0.12.2.4"
       },
       {
-        "added": 1651948129000,
+        "added": 1651950951000,
         "apkName": "aniyomi_v0.12.2.5.apk",
         "hash": "4725271cb7f9144f45bde3142fdad61eec95d11be0a0a6cc24abc159490f6bb4",
         "hashType": "sha256",
@@ -5278,7 +4030,7 @@
         "versionName": "0.12.2.5"
       },
       {
-        "added": 1651948111000,
+        "added": 1651950931000,
         "apkName": "aniyomi_v0.12.1.1.apk",
         "hash": "642603a15da6727d0d70a9eb1a000cc41b2991ed1634cbbacb35c36e971807e6",
         "hashType": "sha256",
@@ -5359,7 +4111,7 @@
         "versionName": "0.12.1.1"
       },
       {
-        "added": 1651948114000,
+        "added": 1651950934000,
         "apkName": "aniyomi_v0.12.1.2.apk",
         "hash": "56fd1643c0756295270ba30fbddee4d76e7dcbd5269fbb5c854bc0fe47f9e04e",
         "hashType": "sha256",
@@ -5438,7 +4190,7 @@
         "versionName": "0.12.1.2"
       },
       {
-        "added": 1651948116000,
+        "added": 1651950937000,
         "apkName": "aniyomi_v0.12.1.3.apk",
         "hash": "a5688ec1da17bfaf185733e5c6dda39e929c3a45d2e5e69d2761e7602c304783",
         "hashType": "sha256",
@@ -5517,7 +4269,7 @@
         "versionName": "0.12.1.3"
       },
       {
-        "added": 1651948081000,
+        "added": 1651950899000,
         "apkName": "aniyomi_v0.11.1.10.apk",
         "hash": "07f9bef5b891062f45e073b1bf87f752bd4a7e1e5dfeb0fcb0fc58adc051f313",
         "hashType": "sha256",
@@ -5599,7 +4351,7 @@
         "versionName": "0.11.1.10"
       },
       {
-        "added": 1651948085000,
+        "added": 1651950903000,
         "apkName": "aniyomi_v0.11.1.11.apk",
         "hash": "a359603181125da36a922baaf4ef3080163bbe2f57817ddb99f74378d90d4206",
         "hashType": "sha256",
@@ -5681,7 +4433,7 @@
         "versionName": "0.11.1.11"
       },
       {
-        "added": 1651948105000,
+        "added": 1651950925000,
         "apkName": "aniyomi_v0.11.1.8.apk",
         "hash": "698179163aafc2508e966da24612bbfbfb52d7cb9b83f8fef929918e7ebb5c2e",
         "hashType": "sha256",
@@ -5763,7 +4515,7 @@
         "versionName": "0.11.1.8"
       },
       {
-        "added": 1651948108000,
+        "added": 1651950928000,
         "apkName": "aniyomi_v0.11.1.9.apk",
         "hash": "14c8507fa26ec67a3e461aef43566668dd4a3630ed1af1f092f49cc624c4f724",
         "hashType": "sha256",
@@ -5845,7 +4597,7 @@
         "versionName": "0.11.1.9"
       },
       {
-        "added": 1651948075000,
+        "added": 1651950892000,
         "apkName": "aniyomi_v0.11.1.0-mi.apk",
         "hash": "254a3e5d242e05d47941c95df8bafffe7ae386222ad8898f370c93ad2a32bf05",
         "hashType": "sha256",
@@ -5926,7 +4678,7 @@
         "versionName": "0.11.1.0-mi"
       },
       {
-        "added": 1651948078000,
+        "added": 1651950895000,
         "apkName": "aniyomi_v0.11.1.1-mi.apk",
         "hash": "fc0a74369a6ba6699db58df24527ac44b79fe70cfd0bbd6635cbe5713c65a16d",
         "hashType": "sha256",
@@ -6007,7 +4759,7 @@
         "versionName": "0.11.1.1-mi"
       },
       {
-        "added": 1651948088000,
+        "added": 1651950906000,
         "apkName": "aniyomi_v0.11.1.2-mi.apk",
         "hash": "37e642b12fa56261fbf887845439fc22074294395ad3409503fcd329138a364e",
         "hashType": "sha256",
@@ -6089,7 +4841,7 @@
         "versionName": "0.11.1.2-mi"
       },
       {
-        "added": 1651948091000,
+        "added": 1651950909000,
         "apkName": "aniyomi_v0.11.1.3-mi.apk",
         "hash": "ae7a175b80ffe69d94c3458dc9d08fa26463355a5fa8f1c8e35cfdd525197505",
         "hashType": "sha256",
@@ -6171,7 +4923,7 @@
         "versionName": "0.11.1.3-mi"
       },
       {
-        "added": 1651948093000,
+        "added": 1651950913000,
         "apkName": "aniyomi_v0.11.1.4-mi.apk",
         "hash": "967e1d4b1644445ed605d071c3ded5ce552b956392029669bb843f1d58002da8",
         "hashType": "sha256",
@@ -6253,7 +5005,7 @@
         "versionName": "0.11.1.4-mi"
       },
       {
-        "added": 1651948096000,
+        "added": 1651950916000,
         "apkName": "aniyomi_v0.11.1.5-mi.apk",
         "hash": "b98e0f9c9ed5b27e3962ca21b5a28f42673a4ae2e2348c32adacbc7894c96e4b",
         "hashType": "sha256",
@@ -6335,7 +5087,7 @@
         "versionName": "0.11.1.5-mi"
       },
       {
-        "added": 1651948099000,
+        "added": 1651950919000,
         "apkName": "aniyomi_v0.11.1.6-mi.apk",
         "hash": "f73f110c821c14bfcfcda97ec20986d96fe3b25f936bb85d036f052f96dc898c",
         "hashType": "sha256",
@@ -6417,7 +5169,7 @@
         "versionName": "0.11.1.5-mi"
       },
       {
-        "added": 1651948102000,
+        "added": 1651950922000,
         "apkName": "aniyomi_v0.11.1.7.apk",
         "hash": "5b412d7c28a97fd56412a78e8244ae6f9dfbdc6cfcc9e791e813c307e61f597d",
         "hashType": "sha256",
@@ -6499,7 +5251,7 @@
         "versionName": "0.11.1.7"
       },
       {
-        "added": 1651948060000,
+        "added": 1651950876000,
         "apkName": "aniyomi_v0.10.12-mi.apk",
         "hash": "8d06570e479e3dc44a08e3191b5782db919b6157f49eacafe055be96d8ba5ef8",
         "hashType": "sha256",
@@ -6580,7 +5332,7 @@
         "versionName": "0.10.12-mi"
       },
       {
-        "added": 1651948062000,
+        "added": 1651950879000,
         "apkName": "aniyomi_v0.10.12.1-mi.apk",
         "hash": "06ff3e9b516338c9ebce4d19d1b3fadb7063cfda7d9e60bdfb1615e92318e13e",
         "hashType": "sha256",
@@ -6661,7 +5413,7 @@
         "versionName": "0.10.12-mi"
       },
       {
-        "added": 1651948065000,
+        "added": 1651950882000,
         "apkName": "aniyomi_v0.10.12.2-mi.apk",
         "hash": "ea8842c4b61c5fedc4d3bf650a8be56b93ff1a5e00c539273ccf324b6ec67611",
         "hashType": "sha256",
@@ -6742,7 +5494,7 @@
         "versionName": "0.10.12.2-mi"
       },
       {
-        "added": 1651948067000,
+        "added": 1651950884000,
         "apkName": "aniyomi_v0.10.12.3-mi.apk",
         "hash": "c84bece8b1d4eefaa4bac985cb88ed90111b3804185fb03b85a3faa1953e9f28",
         "hashType": "sha256",
@@ -6823,7 +5575,7 @@
         "versionName": "0.10.12.3-mi"
       },
       {
-        "added": 1651948070000,
+        "added": 1651950887000,
         "apkName": "aniyomi_v0.10.12.4-mi.apk",
         "hash": "46f96530f16aa16681baa3f75704f6ca05216872fd0d22a8196be797c1deb7fa",
         "hashType": "sha256",
@@ -6904,7 +5656,7 @@
         "versionName": "0.10.12.4-mi"
       },
       {
-        "added": 1651948073000,
+        "added": 1651950890000,
         "apkName": "aniyomi_v0.10.12.5-mi.apk",
         "hash": "c0d34faa502552030ed72d865585d84534f04bee43df481a53fba78082776f68",
         "hashType": "sha256",
@@ -6985,7 +5737,7 @@
         "versionName": "0.10.12.5-mi"
       },
       {
-        "added": 1651948057000,
+        "added": 1651950873000,
         "apkName": "aniyomi_v0.10.11-mi.apk",
         "hash": "2d931ffe5a8547227b0180008e80a6571ebd76ebfc7a77a892ccbe345dae6281",
         "hashType": "sha256",
