@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1651940810000,
+    "timestamp": 1651947172000,
     "version": 20001,
     "name": "My First F-Droid Repo Demo",
     "icon": "icon.png",
@@ -13,6 +13,27 @@
   },
   "apps": [
     {
+      "authorName": "LagradOst",
+      "categories": [
+        "Internet"
+      ],
+      "suggestedVersionName": "2.9.24",
+      "suggestedVersionCode": "47",
+      "description": "Android app for streaming and downloading Movies, TV-Series and Anime.\n",
+      "license": "GPL-3.0",
+      "name": "Cloudstream3",
+      "sourceCode": "https://github.com/LagradOst/CloudStream-3",
+      "summary": "Android app for streaming and downloading Movies, TV-Series and Anime.",
+      "added": 1651947095000,
+      "packageName": "com.lagradost.cloudstream3",
+      "lastUpdated": 1651947121000,
+      "localized": {
+        "en-US": {
+          "whatsNew": "+ Migrated to material3 UI \n+ Added search bar on homepage\n+ Added poster title option\n+ Added Mal/Anilist sync for some anime sites\n+ Added logcat \ud83d\udc08 \n+ Added providers\n+ Fixed providers\n+ Fixed AndroidTv issues\n+ Fixed resume watching bug (will cause removal of watch history and backup will not help, continue watching and bookmarks will stay)"
+        }
+      }
+    },
+    {
       "authorName": "xarantolus",
       "categories": [
         "Writing"
@@ -24,10 +45,10 @@
       "name": "Notality",
       "sourceCode": "https://github.com/xarantolus/notality",
       "summary": "A very simple note taking app for Android",
-      "added": 1651940757000,
+      "added": 1651947122000,
       "icon": "io.github.xarantolus.notality.10.png",
       "packageName": "io.github.xarantolus.notality",
-      "lastUpdated": 1651940771000,
+      "lastUpdated": 1651947134000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -56,9 +77,9 @@
       "name": "Rock It!",
       "sourceCode": "https://github.com/xarantolus/rockit",
       "summary": "Rock It! is an Android app that helps you stay informed on all things space",
-      "added": 1651940772000,
+      "added": 1651947135000,
       "packageName": "io.github.xarantolus.rockit",
-      "lastUpdated": 1651940793000,
+      "lastUpdated": 1651947153000,
       "localized": {
         "en-US": {
           "phoneScreenshots": [
@@ -81,9 +102,927 @@
     }
   ],
   "packages": {
+    "com.lagradost.cloudstream3": [
+      {
+        "added": 1651947121000,
+        "apkName": "cloudstream3_v2.9.24.apk",
+        "hash": "fc52d00bcf6b07c01cda56d052d7719692a70645f1f39139be7f6348a9fe77be",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.lagradost.cloudstream3",
+        "sig": "a084adc2b0d2548cc70da68ccf2e8c30",
+        "signer": "9b4f6c87eeb70b257c7f968e65b15616824bce33e9cc74a07ad3dd26632a1db7",
+        "size": 19309223,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ]
+        ],
+        "versionCode": 47,
+        "versionName": "2.9.24"
+      },
+      {
+        "added": 1651947119000,
+        "apkName": "cloudstream3_v2.8.16.apk",
+        "hash": "fb5f9faa0d8e95e7714b4040cfe276327306b95efe6377b863188c5b6bbf1266",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "packageName": "com.lagradost.cloudstream3",
+        "sig": "a084adc2b0d2548cc70da68ccf2e8c30",
+        "signer": "9b4f6c87eeb70b257c7f968e65b15616824bce33e9cc74a07ad3dd26632a1db7",
+        "size": 17272576,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ]
+        ],
+        "versionCode": 45,
+        "versionName": "2.8.16"
+      },
+      {
+        "added": 1651947118000,
+        "apkName": "cloudstream3_v2.7.14.apk",
+        "hash": "e9196edec72b8896ffda1681436550ffbb2c29ad8cdd80eb8553f332702e3df2",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.lagradost.cloudstream3",
+        "sig": "a084adc2b0d2548cc70da68ccf2e8c30",
+        "signer": "9b4f6c87eeb70b257c7f968e65b15616824bce33e9cc74a07ad3dd26632a1db7",
+        "size": 19176717,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.WRITE_EPG_DATA",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "com.android.providers.tv.permission.READ_EPG_DATA",
+            null
+          ]
+        ],
+        "versionCode": 44,
+        "versionName": "2.7.14"
+      },
+      {
+        "added": 1651947095000,
+        "apkName": "cloudstream3_2.6.9.apk",
+        "hash": "bf519f655259fbb701f0e440691a6ad212f31a4fa9071873ad782d158eb0e02a",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.lagradost.cloudstream3",
+        "sig": "a084adc2b0d2548cc70da68ccf2e8c30",
+        "signer": "9b4f6c87eeb70b257c7f968e65b15616824bce33e9cc74a07ad3dd26632a1db7",
+        "size": 22304470,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 42,
+        "versionName": "2.6.9"
+      },
+      {
+        "added": 1651947116000,
+        "apkName": "cloudstream3_v2.5.8.apk",
+        "hash": "52caee389ffa29d921d8930b24e0aa8de26ecbdf06eef5ab49b1f3fd69558ef2",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.lagradost.cloudstream3",
+        "sig": "a084adc2b0d2548cc70da68ccf2e8c30",
+        "signer": "9b4f6c87eeb70b257c7f968e65b15616824bce33e9cc74a07ad3dd26632a1db7",
+        "size": 21866392,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 41,
+        "versionName": "2.5.8"
+      },
+      {
+        "added": 1651947114000,
+        "apkName": "cloudstream3_v2.4.7.apk",
+        "hash": "45fcc74be7d8be21f66e805aaeb1d6629a402e09ab5613f53f06359287d3b29f",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.lagradost.cloudstream3",
+        "sig": "a084adc2b0d2548cc70da68ccf2e8c30",
+        "signer": "9b4f6c87eeb70b257c7f968e65b15616824bce33e9cc74a07ad3dd26632a1db7",
+        "size": 21769639,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 39,
+        "versionName": "2.4.7"
+      },
+      {
+        "added": 1651947111000,
+        "apkName": "cloudstream3_v2.2.3.apk",
+        "hash": "f3fac74c6a22df610e90bf9bd58e2accd0759fa136e652987d959961f56eb133",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.lagradost.cloudstream3",
+        "sig": "a084adc2b0d2548cc70da68ccf2e8c30",
+        "signer": "9b4f6c87eeb70b257c7f968e65b15616824bce33e9cc74a07ad3dd26632a1db7",
+        "size": 21101421,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 34,
+        "versionName": "2.2.3"
+      },
+      {
+        "added": 1651947113000,
+        "apkName": "cloudstream3_v2.3.3.apk",
+        "hash": "31dce4545011af6f7498b444f1e6dca3ae75c6a121a2652968759481b521f816",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.lagradost.cloudstream3",
+        "sig": "a084adc2b0d2548cc70da68ccf2e8c30",
+        "signer": "9b4f6c87eeb70b257c7f968e65b15616824bce33e9cc74a07ad3dd26632a1db7",
+        "size": 21680065,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 34,
+        "versionName": "2.3.3"
+      },
+      {
+        "added": 1651947109000,
+        "apkName": "cloudstream3_v2.1.2.apk",
+        "hash": "e8ed56a8adabb12bac5f5fc2b3f0c0a7766c6b7e51c4aafc61444b8b602ab1c4",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.lagradost.cloudstream3",
+        "sig": "a084adc2b0d2548cc70da68ccf2e8c30",
+        "signer": "9b4f6c87eeb70b257c7f968e65b15616824bce33e9cc74a07ad3dd26632a1db7",
+        "size": 20684925,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 32,
+        "versionName": "2.1.2"
+      },
+      {
+        "added": 1651947108000,
+        "apkName": "cloudstream3_v2.0.0.apk",
+        "hash": "964b3348d4781793a87e6742e7511b4b0a28ea0627e92c6b3f5d646bc0923fa3",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.lagradost.cloudstream3",
+        "sig": "a084adc2b0d2548cc70da68ccf2e8c30",
+        "signer": "9b4f6c87eeb70b257c7f968e65b15616824bce33e9cc74a07ad3dd26632a1db7",
+        "size": 20635551,
+        "targetSdkVersion": 31,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ]
+        ],
+        "versionCode": 28,
+        "versionName": "2.0.0"
+      },
+      {
+        "added": 1651947106000,
+        "apkName": "cloudstream3_v1.9.9.apk",
+        "hash": "8590f36eb316bdec359bbb4396d52f43cb8142bce8c641c977a82d9883a535ef",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.lagradost.cloudstream3",
+        "sig": "a084adc2b0d2548cc70da68ccf2e8c30",
+        "signer": "9b4f6c87eeb70b257c7f968e65b15616824bce33e9cc74a07ad3dd26632a1db7",
+        "size": 32398525,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 25,
+        "versionName": "1.9.9"
+      },
+      {
+        "added": 1651947104000,
+        "apkName": "cloudstream3_v1.7.6.apk",
+        "hash": "02e1e8a7a8091e1e2f47335c44e2644f09c18cfcd23c161a37fb2411dc1429a8",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.lagradost.cloudstream3",
+        "sig": "a084adc2b0d2548cc70da68ccf2e8c30",
+        "signer": "9b4f6c87eeb70b257c7f968e65b15616824bce33e9cc74a07ad3dd26632a1db7",
+        "size": 32361363,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 20,
+        "versionName": "1.7.6"
+      },
+      {
+        "added": 1651947102000,
+        "apkName": "cloudstream3_v1.7.5.apk",
+        "hash": "875193d56851c80ed12ed4b10eb7b338f66564b1db99b40e7e847d48f4ca0d64",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.lagradost.cloudstream3",
+        "sig": "a084adc2b0d2548cc70da68ccf2e8c30",
+        "signer": "9b4f6c87eeb70b257c7f968e65b15616824bce33e9cc74a07ad3dd26632a1db7",
+        "size": 33037847,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 19,
+        "versionName": "1.7.5"
+      },
+      {
+        "added": 1651947100000,
+        "apkName": "cloudstream3_v1.5.2.apk",
+        "hash": "013afc54d65e48fa7ea9f7c3b400498e664435bae10ea68cbaf6996f1ecaab49",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.lagradost.cloudstream3",
+        "sig": "a084adc2b0d2548cc70da68ccf2e8c30",
+        "signer": "9b4f6c87eeb70b257c7f968e65b15616824bce33e9cc74a07ad3dd26632a1db7",
+        "size": 20196029,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 18,
+        "versionName": "1.5.2"
+      },
+      {
+        "added": 1651947099000,
+        "apkName": "cloudstream3_v1.3.0.apk",
+        "hash": "9ef46535fc7d7c349f90e1a37a8ec486228c023c693ee2e3b0cb68daca04a0ea",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.lagradost.cloudstream3",
+        "sig": "a084adc2b0d2548cc70da68ccf2e8c30",
+        "signer": "9b4f6c87eeb70b257c7f968e65b15616824bce33e9cc74a07ad3dd26632a1db7",
+        "size": 20164631,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 17,
+        "versionName": "1.3.0"
+      },
+      {
+        "added": 1651947097000,
+        "apkName": "cloudstream3_v1.0.0.apk",
+        "hash": "ca17e8c63a21640beb216c0dd048b19f85d55609d87cc29aacef6713f1015ccb",
+        "hashType": "sha256",
+        "minSdkVersion": 21,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "com.lagradost.cloudstream3",
+        "sig": "a084adc2b0d2548cc70da68ccf2e8c30",
+        "signer": "9b4f6c87eeb70b257c7f968e65b15616824bce33e9cc74a07ad3dd26632a1db7",
+        "size": 20138355,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
+        "versionCode": 15,
+        "versionName": "1.0.0"
+      }
+    ],
     "io.github.xarantolus.notality": [
       {
-        "added": 1651940771000,
+        "added": 1651947134000,
         "apkName": "notality_v1.8.1.apk",
         "hash": "a2c14612ca0cac122e2a1c71f9bd3e36bf42dc774dfdb6386cea77238e3c0010",
         "hashType": "sha256",
@@ -102,7 +1041,7 @@
         "versionName": "1.8.1"
       },
       {
-        "added": 1651940770000,
+        "added": 1651947133000,
         "apkName": "notality_v1.8.0.apk",
         "hash": "9da33a99e9a8041044b060935907985bd644558e6c93efad9721840971f811e2",
         "hashType": "sha256",
@@ -121,7 +1060,7 @@
         "versionName": "1.8.0"
       },
       {
-        "added": 1651940769000,
+        "added": 1651947132000,
         "apkName": "notality_v1.7.0.apk",
         "hash": "7b48074dc5cda19179af23ec76b04aee217ef2be1df3cd96f2cf919f0a506c6b",
         "hashType": "sha256",
@@ -140,7 +1079,7 @@
         "versionName": "1.7.0"
       },
       {
-        "added": 1651940768000,
+        "added": 1651947132000,
         "apkName": "notality_v1.6.1.apk",
         "hash": "4086ed6b256f3e25ca40e70a633c720e06d630a617b19741662b0e59b8fe6148",
         "hashType": "sha256",
@@ -159,7 +1098,7 @@
         "versionName": "1.6.1"
       },
       {
-        "added": 1651940767000,
+        "added": 1651947131000,
         "apkName": "notality_v1.6.0.apk",
         "hash": "40737ccc9f77f76ea8bee95b732be62bbc8de9092d9b7dd2d3fb5073c4b4f102",
         "hashType": "sha256",
@@ -178,7 +1117,7 @@
         "versionName": "1.6.0"
       },
       {
-        "added": 1651940766000,
+        "added": 1651947130000,
         "apkName": "notality_v1.5.0.apk",
         "hash": "38a43c4dd82a90597592514c456319857a76028f3a8d7b9fe30af766a87980c8",
         "hashType": "sha256",
@@ -197,7 +1136,7 @@
         "versionName": "1.5.0"
       },
       {
-        "added": 1651940765000,
+        "added": 1651947129000,
         "apkName": "notality_v1.4.3.apk",
         "hash": "321ef6a518804dd8d895f1b75d8ac97bd14367f75eeb2bd7cc5389fbfa425422",
         "hashType": "sha256",
@@ -216,7 +1155,7 @@
         "versionName": "1.4.3"
       },
       {
-        "added": 1651940764000,
+        "added": 1651947128000,
         "apkName": "notality_v1.4.2.apk",
         "hash": "408a950aea0dd357a74480cf7599467e5e408bbb4fee39872d37e2ebe1eee159",
         "hashType": "sha256",
@@ -235,7 +1174,7 @@
         "versionName": "1.4.2"
       },
       {
-        "added": 1651940763000,
+        "added": 1651947127000,
         "apkName": "notality_v1.4.1.apk",
         "hash": "30cc88d156bd04285f926d6ebd0a7db1212ff6c0f580c6aa283302c4203a4934",
         "hashType": "sha256",
@@ -254,7 +1193,7 @@
         "versionName": "1.4.1"
       },
       {
-        "added": 1651940757000,
+        "added": 1651947122000,
         "apkName": "notality_v1.0.0.apk",
         "hash": "ab2781205a0c9a11383099ffe65efc24ed1c7a6d91363c3dcb9a5f607c277b2b",
         "hashType": "sha256",
@@ -273,7 +1212,7 @@
         "versionName": "1.0.0"
       },
       {
-        "added": 1651940758000,
+        "added": 1651947123000,
         "apkName": "notality_v1.0.1.apk",
         "hash": "d8870de8cb06bec2a97741a16cf2b1c3ddfd6ad12a94cb08076be25ae1c9312f",
         "hashType": "sha256",
@@ -292,7 +1231,7 @@
         "versionName": "1.0.1"
       },
       {
-        "added": 1651940759000,
+        "added": 1651947124000,
         "apkName": "notality_v1.1.0.apk",
         "hash": "0fea0e3520d0c78b5bdfe58a7126ef08fe35946599708457f34df37245e777b5",
         "hashType": "sha256",
@@ -311,7 +1250,7 @@
         "versionName": "1.1.0"
       },
       {
-        "added": 1651940760000,
+        "added": 1651947125000,
         "apkName": "notality_v1.2.0.apk",
         "hash": "ba61ec170c9877ff4ce1f3f7cb15f9fb418f82f57c4d3c01553489756a2115c6",
         "hashType": "sha256",
@@ -330,7 +1269,7 @@
         "versionName": "1.2.0"
       },
       {
-        "added": 1651940761000,
+        "added": 1651947126000,
         "apkName": "notality_v1.3.0.apk",
         "hash": "c443456385cfe89ce3423ed78e73e1fe08bf22d4c76370ef8c5ae62de54a3871",
         "hashType": "sha256",
@@ -349,7 +1288,7 @@
         "versionName": "1.3.0"
       },
       {
-        "added": 1651940762000,
+        "added": 1651947126000,
         "apkName": "notality_v1.4.0.apk",
         "hash": "e90c0e9372176c33c8a9dcf626fad718d2cd31ddda7f8ae9505c49b77e5a9d4d",
         "hashType": "sha256",
@@ -370,7 +1309,7 @@
     ],
     "io.github.xarantolus.rockit": [
       {
-        "added": 1651940793000,
+        "added": 1651947153000,
         "apkName": "rockit_v1.5.0.apk",
         "hash": "3e4398a041e11ccc0fe3d1684a36675a821705c6be0c10b56220ba19f44b7acb",
         "hashType": "sha256",
@@ -423,7 +1362,7 @@
         "versionName": "1.5.0"
       },
       {
-        "added": 1651940791000,
+        "added": 1651947152000,
         "apkName": "rockit_v1.4.0.apk",
         "hash": "33867c58a05b19fb07074095e9c4fd59a066f37ec13c8f9648a12aa0edf03aba",
         "hashType": "sha256",
@@ -476,7 +1415,7 @@
         "versionName": "1.4.0"
       },
       {
-        "added": 1651940790000,
+        "added": 1651947151000,
         "apkName": "rockit_v1.3.4.apk",
         "hash": "4ac68bb79a0eb2739a263166d40ac5c612a82e61eb180d07813e43dce778678a",
         "hashType": "sha256",
@@ -529,7 +1468,7 @@
         "versionName": "1.3.4"
       },
       {
-        "added": 1651940789000,
+        "added": 1651947150000,
         "apkName": "rockit_v1.3.3.apk",
         "hash": "871e49d2362b02ae6dbca7a66770ceece1e10568a94d0f730a656b9ecb040892",
         "hashType": "sha256",
@@ -582,7 +1521,7 @@
         "versionName": "1.3.3"
       },
       {
-        "added": 1651940788000,
+        "added": 1651947149000,
         "apkName": "rockit_v1.3.2.apk",
         "hash": "ebc0050a4bd19212b462537c91087329024ecd0fe56a0b8b78086ea6e71119e9",
         "hashType": "sha256",
@@ -635,7 +1574,7 @@
         "versionName": "1.3.2"
       },
       {
-        "added": 1651940787000,
+        "added": 1651947148000,
         "apkName": "rockit_v1.3.1.apk",
         "hash": "edc66ead58e6af93f2d498506f1a6f52c33e442773e64c220925b02d4ad13b00",
         "hashType": "sha256",
@@ -688,7 +1627,7 @@
         "versionName": "1.3.1"
       },
       {
-        "added": 1651940786000,
+        "added": 1651947147000,
         "apkName": "rockit_v1.3.0.apk",
         "hash": "f0786af8d11787f1620ba535e7c5d961ce2c0f5f199af177b3027ce57a1692ea",
         "hashType": "sha256",
@@ -741,7 +1680,7 @@
         "versionName": "1.3.0"
       },
       {
-        "added": 1651940785000,
+        "added": 1651947146000,
         "apkName": "rockit_v1.2.0.apk",
         "hash": "9bc10b1ddb81571e50cd5eaf274d88817c34d9191091735044a9173055e9030d",
         "hashType": "sha256",
@@ -794,7 +1733,7 @@
         "versionName": "1.2.0"
       },
       {
-        "added": 1651940784000,
+        "added": 1651947145000,
         "apkName": "rockit_v1.1.0.apk",
         "hash": "496971c9fc5d6ebc58478ee10b85f245760a741282eb2d505ed3dd4d00993e9a",
         "hashType": "sha256",
@@ -847,7 +1786,7 @@
         "versionName": "1.1.0"
       },
       {
-        "added": 1651940783000,
+        "added": 1651947144000,
         "apkName": "rockit_v1.0.0.apk",
         "hash": "35debc9d1ac17f9c8f41cf6ae6297ca9db26a1e7c4a2e7c668cd0d7d24d3f589",
         "hashType": "sha256",
@@ -900,7 +1839,7 @@
         "versionName": "1.0.0"
       },
       {
-        "added": 1651940781000,
+        "added": 1651947143000,
         "apkName": "rockit_v0.8.0.apk",
         "hash": "ce683294036f352af0d6140ec51ced4354fa1478439a7233cd6b45764c9cccbe",
         "hashType": "sha256",
@@ -953,7 +1892,7 @@
         "versionName": "0.8.0"
       },
       {
-        "added": 1651940780000,
+        "added": 1651947142000,
         "apkName": "rockit_v0.7.1.apk",
         "hash": "6f724f9687164a595c72659224ff3960bc02a4923087cf1dfd20a2e6d6556cc0",
         "hashType": "sha256",
@@ -1006,7 +1945,7 @@
         "versionName": "0.7.1"
       },
       {
-        "added": 1651940779000,
+        "added": 1651947141000,
         "apkName": "rockit_v0.6.0.apk",
         "hash": "a42e3d5b92b16e3e5fccd7f8ff138d540c077670185d4332225c1a14d1188dbd",
         "hashType": "sha256",
@@ -1059,7 +1998,7 @@
         "versionName": "0.6.0"
       },
       {
-        "added": 1651940778000,
+        "added": 1651947140000,
         "apkName": "rockit_v0.5.0.apk",
         "hash": "98993a98a0d33c7bfc6fcf3591fe429b3e1defb04e76818f0aeb1b9924d986cf",
         "hashType": "sha256",
@@ -1112,7 +2051,7 @@
         "versionName": "0.5.0"
       },
       {
-        "added": 1651940777000,
+        "added": 1651947139000,
         "apkName": "rockit_v0.4.0.apk",
         "hash": "8db540af4776df573bace68f584c11286377e6cf9c78db059b240661408db8f4",
         "hashType": "sha256",
@@ -1137,7 +2076,7 @@
         "versionName": "0.4.0"
       },
       {
-        "added": 1651940776000,
+        "added": 1651947139000,
         "apkName": "rockit_v0.3.0.apk",
         "hash": "adcbb0bc0f8baf30610a8880f0e7f35d0604b11f4e1c70581bdd12528db2283b",
         "hashType": "sha256",
@@ -1162,7 +2101,7 @@
         "versionName": "0.3.0"
       },
       {
-        "added": 1651940775000,
+        "added": 1651947138000,
         "apkName": "rockit_v0.2.1.apk",
         "hash": "6c689e2f8565005a38edba5a34418ff3a3f1189743c2a378b4adb20352cda805",
         "hashType": "sha256",
@@ -1187,7 +2126,7 @@
         "versionName": "0.2.1"
       },
       {
-        "added": 1651940774000,
+        "added": 1651947137000,
         "apkName": "rockit_v0.2.0.apk",
         "hash": "adc95cfd4983231083e8118b2bc9149712f7f9c844281426b1108c0575112adf",
         "hashType": "sha256",
@@ -1212,7 +2151,7 @@
         "versionName": "0.2.0"
       },
       {
-        "added": 1651940773000,
+        "added": 1651947136000,
         "apkName": "rockit_v0.1.0.apk",
         "hash": "7022ad0d02e05da6915b6ab51a81b9c82118ce6862b9b90f6dadbe152ff13c6b",
         "hashType": "sha256",
@@ -1237,7 +2176,7 @@
         "versionName": "0.1.0"
       },
       {
-        "added": 1651940772000,
+        "added": 1651947135000,
         "apkName": "rockit_v0.0.1.apk",
         "hash": "97bf39c135daa186c0d38465d2d2ac1174d2da3fcbbf41e592024315cf55c19a",
         "hashType": "sha256",
