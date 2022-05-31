@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="icon.png" name="My First F-Droid Repo Demo" pubkey="308204fd308202e5a00302010202045a625ead300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b301906035504031312706f702d6f732e6c6f63616c646f6d61696e301e170d3232303530363137313135315a170d3439303932313137313135315a302f3110300e060355040b1307462d44726f6964311b301906035504031312706f702d6f732e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a02820201009ca8e44063562cb0086816814c5146a48f889a2c3dbdb41f24fb65eb507a18267ad49413e1627631d77ee60f79e53d88170a4e9ae7b47e6e8ec3ae62d7d90b02376d357252bde736c3464233d4c0660748696e8fb3e92a5f3ed98a5c3194a5a6fef7451b49d87922b01be92ff79173a1eb35aedd1765c93b52e46d922bfc6ea7726d9ae9f837212de84217b02c1b057a40346820cd29dc3b5b53d220f87ace532c6e2f3ace2d165e9ed6a466324a898c9481ff572545ac52b4be21acc969991f5f2db3ad944c285666fc4ba6dc44c8ebc28be2f2891bca256f77967bf2b472f7ccfae801416391a29721242463448934fc0fe87a01f52106ff446c7e8915fe8a2d24f2ddc8c15bec63570f9d8b46a3aca9645dd4a89d56516a2cdb42e3f34399b115eb8f8f37e2c9a67f8e3d81552b103657c86daa3a607c208f567452ad1867d9a074bc224d91d0fa668bc89462d5d50b2e2d7c1ecb7ce151abe6656c739c963ff64af3ae280cf6696530eae05fd44abafa6f44129f09568fdc6b6c3a0bda251065eed1c55277647ba00c847aec4a8bcc0d741467570dc23b6f6e3d6da05ffcc04c84626fa059f0eda15927b7241f066825fc940f05c668804d0e62f9a6d53a28dcf6630fb3d8733e9b29b3509c9e96533401ed97575fb0d4570b84aa084e42464031927ee53841a837a55a2cf7d5a9e8a947ec0c54d54e95f78f3b3c15cdc90203010001a321301f301d0603551d0e04160414f88cd71ee2f2fad38737ddacdf778080e34f451d300d06092a864886f70d01010b050003820201003d2bceead55ab908971a99fd60f7ad658beaa7a6fc5d8785fe0567abc6f682d75caadfe71ec4563c924be91e016e54a01e7431e056a87768816aa59419e8c9f5831a5c9c9efa686732c11ca4a7f6e6e8257e2dc96586e8bc591f050b67c67513ee7420811200d4d468978c8f2622d4ed075c9a1d380ad2a8ec9298fc9d03b03709f5c09ea36d30d4a1d2c29d566910590735a1a778b5bcd61eb1632c8f6bccbcb901bfbf4bdaa8086506858ad925560c3e89e9337a11dd6830170547338259693644aaf08bba392c8c31f4c2b025b2bff8b5614e808c3e9a42ebf467c4e0ce9254e3d04e768ca4650ddf8fb64998345910bf693cf7bfcd18f1b965b981f7a47bc0c13e936cd258d52df6073ded4f4a23e7f535d06b6fd5f6bdcd9aa46d8b8d8905a31ee2ea8b7d6a5906c71f50248b4511c3dfa644f276e8fa9487a58e8d217503e3962a5aa75bd279c1c6b1f46d847e998064930382fbb55366c0b9ab9a7f11e990bf533a2898437ef4abde2dfe42b65e09bb7afb7387c613c02502d363c185be332b02209eef1d81b70e7cb0e76839e1574ca041b2520f90edd443ddc535e856307fa2226ed03a757442b86dd576c45d858243fd9de0344a1ff7f469125db509c473ffa04d8710dfd21482c9b21b44c2c026cbdb95d757e44f0a9c5ed14b3edf9801369b8c0568b799e3c1f644e2f594c0a9f37549186fa8c96378a15d0082" timestamp="1653918990" url="https://raw.githubusercontent.com/noobmaster1112/fdroid/main/fdroid/repo" version="20001">
+	<repo icon="icon.png" name="My First F-Droid Repo Demo" pubkey="308204fd308202e5a00302010202045a625ead300d06092a864886f70d01010b0500302f3110300e060355040b1307462d44726f6964311b301906035504031312706f702d6f732e6c6f63616c646f6d61696e301e170d3232303530363137313135315a170d3439303932313137313135315a302f3110300e060355040b1307462d44726f6964311b301906035504031312706f702d6f732e6c6f63616c646f6d61696e30820222300d06092a864886f70d01010105000382020f003082020a02820201009ca8e44063562cb0086816814c5146a48f889a2c3dbdb41f24fb65eb507a18267ad49413e1627631d77ee60f79e53d88170a4e9ae7b47e6e8ec3ae62d7d90b02376d357252bde736c3464233d4c0660748696e8fb3e92a5f3ed98a5c3194a5a6fef7451b49d87922b01be92ff79173a1eb35aedd1765c93b52e46d922bfc6ea7726d9ae9f837212de84217b02c1b057a40346820cd29dc3b5b53d220f87ace532c6e2f3ace2d165e9ed6a466324a898c9481ff572545ac52b4be21acc969991f5f2db3ad944c285666fc4ba6dc44c8ebc28be2f2891bca256f77967bf2b472f7ccfae801416391a29721242463448934fc0fe87a01f52106ff446c7e8915fe8a2d24f2ddc8c15bec63570f9d8b46a3aca9645dd4a89d56516a2cdb42e3f34399b115eb8f8f37e2c9a67f8e3d81552b103657c86daa3a607c208f567452ad1867d9a074bc224d91d0fa668bc89462d5d50b2e2d7c1ecb7ce151abe6656c739c963ff64af3ae280cf6696530eae05fd44abafa6f44129f09568fdc6b6c3a0bda251065eed1c55277647ba00c847aec4a8bcc0d741467570dc23b6f6e3d6da05ffcc04c84626fa059f0eda15927b7241f066825fc940f05c668804d0e62f9a6d53a28dcf6630fb3d8733e9b29b3509c9e96533401ed97575fb0d4570b84aa084e42464031927ee53841a837a55a2cf7d5a9e8a947ec0c54d54e95f78f3b3c15cdc90203010001a321301f301d0603551d0e04160414f88cd71ee2f2fad38737ddacdf778080e34f451d300d06092a864886f70d01010b050003820201003d2bceead55ab908971a99fd60f7ad658beaa7a6fc5d8785fe0567abc6f682d75caadfe71ec4563c924be91e016e54a01e7431e056a87768816aa59419e8c9f5831a5c9c9efa686732c11ca4a7f6e6e8257e2dc96586e8bc591f050b67c67513ee7420811200d4d468978c8f2622d4ed075c9a1d380ad2a8ec9298fc9d03b03709f5c09ea36d30d4a1d2c29d566910590735a1a778b5bcd61eb1632c8f6bccbcb901bfbf4bdaa8086506858ad925560c3e89e9337a11dd6830170547338259693644aaf08bba392c8c31f4c2b025b2bff8b5614e808c3e9a42ebf467c4e0ce9254e3d04e768ca4650ddf8fb64998345910bf693cf7bfcd18f1b965b981f7a47bc0c13e936cd258d52df6073ded4f4a23e7f535d06b6fd5f6bdcd9aa46d8b8d8905a31ee2ea8b7d6a5906c71f50248b4511c3dfa644f276e8fa9487a58e8d217503e3962a5aa75bd279c1c6b1f46d847e998064930382fbb55366c0b9ab9a7f11e990bf533a2898437ef4abde2dfe42b65e09bb7afb7387c613c02502d363c185be332b02209eef1d81b70e7cb0e76839e1574ca041b2520f90edd443ddc535e856307fa2226ed03a757442b86dd576c45d858243fd9de0344a1ff7f469125db509c473ffa04d8710dfd21482c9b21b44c2c026cbdb95d757e44f0a9c5ed14b3edf9801369b8c0568b799e3c1f644e2f594c0a9f37549186fa8c96378a15d0082" timestamp="1653966262" url="https://raw.githubusercontent.com/noobmaster1112/fdroid/main/fdroid/repo" version="20001">
 		<description>This is a repository of apps to be used with F-Droid. Applications in this repository are either official binaries built by the original application developers, or are binaries built from source by the admin of f-droid.org using the tools on https://gitlab.com/fdroid.</description>
 	</repo>
 	<application id="xyz.jmir.tachiyomi.mi">
 		<id>xyz.jmir.tachiyomi.mi</id>
-		<added>2022-05-30</added>
-		<lastupdated>2022-05-30</lastupdated>
+		<added>2022-05-31</added>
+		<lastupdated>2022-05-31</lastupdated>
 		<name>Aniyomi</name>
 		<summary>Unofficial fork of Tachiyomi for anime</summary>
 		<desc>Unofficial fork of Tachiyomi for anime
@@ -28,7 +28,7 @@
 			<size>42310783</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>da127967dcce8325af2d99ecd5364d87</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID,moe.shizuku.manager.permission.API_V23</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -41,7 +41,7 @@
 			<size>41404954</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>da127967dcce8325af2d99ecd5364d87</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,moe.shizuku.manager.permission.API_V23</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -54,7 +54,7 @@
 			<size>24149033</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>da127967dcce8325af2d99ecd5364d87</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,UPDATE_PACKAGES_WITHOUT_USER_ACTION,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,moe.shizuku.manager.permission.API_V23</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -67,7 +67,7 @@
 			<size>24232532</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>da127967dcce8325af2d99ecd5364d87</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -80,7 +80,7 @@
 			<size>48816523</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>da127967dcce8325af2d99ecd5364d87</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -93,7 +93,7 @@
 			<size>66925386</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>da127967dcce8325af2d99ecd5364d87</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -106,7 +106,7 @@
 			<size>41626341</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>da127967dcce8325af2d99ecd5364d87</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -119,7 +119,7 @@
 			<size>26782534</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>da127967dcce8325af2d99ecd5364d87</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -132,7 +132,7 @@
 			<size>26488219</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>da127967dcce8325af2d99ecd5364d87</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -145,7 +145,7 @@
 			<size>20127167</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>da127967dcce8325af2d99ecd5364d87</sig>
 			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,QUERY_ALL_PACKAGES,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_DELETE_PACKAGES,REQUEST_IGNORE_BATTERY_OPTIMIZATIONS,REQUEST_INSTALL_PACKAGES,USE_BIOMETRIC,USE_FINGERPRINT,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86</nativecode>
@@ -153,8 +153,8 @@
 	</application>
 	<application id="com.lagradost.cloudstream3.prerelease">
 		<id>com.lagradost.cloudstream3.prerelease</id>
-		<added>2022-05-30</added>
-		<lastupdated>2022-05-30</lastupdated>
+		<added>2022-05-31</added>
+		<lastupdated>2022-05-31</lastupdated>
 		<name>Cloudstream3</name>
 		<summary>Android app for streaming and downloading Movies, TV-Series and Anime.</summary>
 		<desc>Android app for streaming and downloading Movies, TV-Series and Anime.   
@@ -176,15 +176,15 @@
 			<size>19320248</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>54a161cee9f307c3c8aa48ec583ec390</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
 		</package>
 	</application>
 	<application id="com.lagradost.cloudstream3">
 		<id>com.lagradost.cloudstream3</id>
-		<added>2022-05-30</added>
-		<lastupdated>2022-05-30</lastupdated>
+		<added>2022-05-31</added>
+		<lastupdated>2022-05-31</lastupdated>
 		<name>Cloudstream3</name>
 		<summary>Android app for streaming and downloading Movies, TV-Series and Anime.</summary>
 		<desc>Android app for streaming and downloading Movies, TV-Series and Anime.   
@@ -206,7 +206,7 @@
 			<size>19309223</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>a084adc2b0d2548cc70da68ccf2e8c30</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
 		</package>
@@ -218,7 +218,7 @@
 			<size>17272576</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>a084adc2b0d2548cc70da68ccf2e8c30</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
 		</package>
@@ -230,7 +230,7 @@
 			<size>19176717</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>a084adc2b0d2548cc70da68ccf2e8c30</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.providers.tv.permission.READ_EPG_DATA,com.android.providers.tv.permission.WRITE_EPG_DATA</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -243,7 +243,7 @@
 			<size>22304470</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>a084adc2b0d2548cc70da68ccf2e8c30</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -256,7 +256,7 @@
 			<size>21866392</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>a084adc2b0d2548cc70da68ccf2e8c30</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -269,7 +269,7 @@
 			<size>21769639</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>a084adc2b0d2548cc70da68ccf2e8c30</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -282,7 +282,7 @@
 			<size>21101421</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>a084adc2b0d2548cc70da68ccf2e8c30</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -295,7 +295,7 @@
 			<size>20684925</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>a084adc2b0d2548cc70da68ccf2e8c30</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -308,7 +308,7 @@
 			<size>20635551</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>a084adc2b0d2548cc70da68ccf2e8c30</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -321,7 +321,7 @@
 			<size>32398525</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>a084adc2b0d2548cc70da68ccf2e8c30</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -334,7 +334,7 @@
 			<size>32361363</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>a084adc2b0d2548cc70da68ccf2e8c30</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -347,7 +347,7 @@
 			<size>33037847</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>a084adc2b0d2548cc70da68ccf2e8c30</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -360,7 +360,7 @@
 			<size>20196029</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>a084adc2b0d2548cc70da68ccf2e8c30</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -373,7 +373,7 @@
 			<size>20164631</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>a084adc2b0d2548cc70da68ccf2e8c30</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -386,7 +386,7 @@
 			<size>20138355</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>a084adc2b0d2548cc70da68ccf2e8c30</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -394,8 +394,8 @@
 	</application>
 	<application id="net.sanic.Kayuri">
 		<id>net.sanic.Kayuri</id>
-		<added>2022-05-30</added>
-		<lastupdated>2022-05-30</lastupdated>
+		<added>2022-05-31</added>
+		<lastupdated>2022-05-31</lastupdated>
 		<name>Kayuri</name>
 		<summary>An Anime Watching App With Better player And Faster Servers</summary>
 		<icon>net.sanic.Kayuri.8.png</icon>
@@ -418,7 +418,7 @@
 			<size>4878586</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>57bfcd7197db62ee437b14e516d0ec55</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -426,8 +426,8 @@
 	</application>
 	<application id="net.xblacky.animexstream">
 		<id>net.xblacky.animexstream</id>
-		<added>2022-05-30</added>
-		<lastupdated>2022-05-30</lastupdated>
+		<added>2022-05-31</added>
+		<lastupdated>2022-05-31</lastupdated>
 		<name>Kayuri</name>
 		<summary>An Anime Watching App With Better player And Faster Servers</summary>
 		<icon>net.xblacky.animexstream.8.png</icon>
@@ -450,7 +450,7 @@
 			<size>4273768</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>30</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>4a6550c0c32abcc1b53667aff9f2ebf4</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET</permissions>
 			<nativecode>arm64-v8a</nativecode>
@@ -458,8 +458,8 @@
 	</application>
 	<application id="com.deceptions.no.tv">
 		<id>com.deceptions.no.tv</id>
-		<added>2022-05-30</added>
-		<lastupdated>2022-05-30</lastupdated>
+		<added>2022-05-31</added>
+		<lastupdated>2022-05-31</lastupdated>
 		<name>Kuro</name>
 		<summary></summary>
 		<icon>com.deceptions.no.tv.4.png</icon>
@@ -482,7 +482,7 @@
 			<size>16011117</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>0ec4a7894c50765ff23df8cfa46ee9e8</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -496,7 +496,7 @@
 			<size>15826908</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>0ec4a7894c50765ff23df8cfa46ee9e8</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -505,8 +505,8 @@
 	</application>
 	<application id="com.deceptions.no">
 		<id>com.deceptions.no</id>
-		<added>2022-05-30</added>
-		<lastupdated>2022-05-30</lastupdated>
+		<added>2022-05-31</added>
+		<lastupdated>2022-05-31</lastupdated>
 		<name>Kuro</name>
 		<summary></summary>
 		<icon>com.deceptions.no.4.png</icon>
@@ -529,7 +529,7 @@
 			<size>15823919</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>0ec4a7894c50765ff23df8cfa46ee9e8</sig>
 			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET,MANAGE_EXTERNAL_STORAGE,MODIFY_AUDIO_SETTINGS,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE</permissions>
 			<nativecode>arm64-v8a,armeabi-v7a,x86,x86_64</nativecode>
@@ -537,8 +537,8 @@
 	</application>
 	<application id="ani.saikou">
 		<id>ani.saikou</id>
-		<added>2022-05-30</added>
-		<lastupdated>2022-05-30</lastupdated>
+		<added>2022-05-31</added>
+		<lastupdated>2022-05-31</lastupdated>
 		<name>Saikou</name>
 		<summary>An Android Anilist only client, which lets you stream &amp; download Anime &amp; Manga.</summary>
 		<icon>ani.saikou.53.png</icon>
@@ -561,7 +561,7 @@
 			<size>13881124</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>c638e18e85aabacff3fbecd6435597bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID</permissions>
 			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -574,7 +574,7 @@
 			<size>13881055</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>c638e18e85aabacff3fbecd6435597bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID</permissions>
 			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -587,7 +587,7 @@
 			<size>14003439</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>c638e18e85aabacff3fbecd6435597bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID</permissions>
 			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -600,7 +600,7 @@
 			<size>13868194</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>c638e18e85aabacff3fbecd6435597bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID</permissions>
 			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -613,7 +613,7 @@
 			<size>9555583</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>c638e18e85aabacff3fbecd6435597bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID</permissions>
 			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -626,7 +626,7 @@
 			<size>9554051</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>c638e18e85aabacff3fbecd6435597bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID</permissions>
 			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -639,7 +639,7 @@
 			<size>9539339</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>c638e18e85aabacff3fbecd6435597bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,REQUEST_INSTALL_PACKAGES,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID</permissions>
 			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -652,7 +652,7 @@
 			<size>9558674</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>c638e18e85aabacff3fbecd6435597bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID</permissions>
 			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -665,7 +665,7 @@
 			<size>9552042</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>c638e18e85aabacff3fbecd6435597bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID</permissions>
 			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -678,7 +678,7 @@
 			<size>11603690</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>c638e18e85aabacff3fbecd6435597bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID</permissions>
 			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -691,7 +691,7 @@
 			<size>11591219</size>
 			<sdkver>21</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>c638e18e85aabacff3fbecd6435597bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID</permissions>
 			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
@@ -704,7 +704,7 @@
 			<size>10902578</size>
 			<sdkver>23</sdkver>
 			<targetSdkVersion>31</targetSdkVersion>
-			<added>2022-05-30</added>
+			<added>2022-05-31</added>
 			<sig>c638e18e85aabacff3fbecd6435597bd</sig>
 			<permissions>ACCESS_NETWORK_STATE,INTERNET,READ_EXTERNAL_STORAGE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.google.android.gms.permission.AD_ID</permissions>
 			<uses-permission maxSdkVersion="29" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
