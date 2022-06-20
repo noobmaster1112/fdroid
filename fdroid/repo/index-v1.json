@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1655608684000,
+    "timestamp": 1655694005000,
     "version": 20001,
     "name": "My First F-Droid Repo Demo",
     "icon": "icon.png",
@@ -24,9 +24,9 @@
       "name": "Aniyomi",
       "sourceCode": "https://github.com/jmir1/aniyomi",
       "summary": "Unofficial fork of Tachiyomi for anime",
-      "added": 1655608382000,
+      "added": 1655693710000,
       "packageName": "xyz.jmir.tachiyomi.mi",
-      "lastUpdated": 1655608494000,
+      "lastUpdated": 1655693816000,
       "localized": {
         "en-US": {
           "whatsNew": "changes:\n- many more bug fixes and other improvements\n- automatic tracker status change\n- tweaked theme colours\n- support for mpv as external player\n- fixed fullscreen mode in player for notch phones\n- a lot more, see here: https://github.com/jmir1/aniyomi/compare/v0.12.3.5...v0.12.3.6\n\n---\n\n### Checksums\n\n| Variant | SHA-256 |\n| ------- | ------- |\n| Universal | 5f3c456abe6b1922b4443586a075a70dde8cb0dc6783f35e7be5cee374117c3f\n| arm64-v8a | 086d7ff4f516c0a599db9494816fd84644cd893d9d12556d854bfdd"
@@ -45,12 +45,12 @@
       "name": "Cloudstream3",
       "sourceCode": "https://github.com/LagradOst/CloudStream-3",
       "summary": "Android app for streaming and downloading Movies, TV-Series and Anime.",
-      "added": 1655608498000,
+      "added": 1655693820000,
       "packageName": "com.lagradost.cloudstream3.prerelease",
-      "lastUpdated": 1655608498000,
+      "lastUpdated": 1655693820000,
       "localized": {
         "en-US": {
-          "whatsNew": "## Commits\n- f5545a1: Fixed inconsistent subtitle padding (exoplayer was wack) (Blatzar)\n- 52d81dc: Merge remote-tracking branch 'origin/master' (Blatzar)"
+          "whatsNew": "## Commits\n- 2241f82: Fixed back button on RTL layout (Blatzar)"
         }
       }
     },
@@ -66,9 +66,9 @@
       "name": "Cloudstream3",
       "sourceCode": "https://github.com/LagradOst/CloudStream-3",
       "summary": "Android app for streaming and downloading Movies, TV-Series and Anime.",
-      "added": 1655608496000,
+      "added": 1655693818000,
       "packageName": "com.lagradost.cloudstream3",
-      "lastUpdated": 1655608531000,
+      "lastUpdated": 1655693853000,
       "localized": {
         "en-US": {
           "whatsNew": "+ Added opensubtitles (needs login)\n+ Added subtitle encoding\n+ Organized settings\n+ Provider fixes\n+ Translation fixes\n+ Bug fixes"
@@ -87,10 +87,10 @@
       "name": "Kayuri",
       "sourceCode": "https://github.com/Killerpac/Kayuri",
       "summary": "An Anime Watching App With Better player And Faster Servers",
-      "added": 1655608533000,
+      "added": 1655693854000,
       "icon": "net.sanic.Kayuri.8.png",
       "packageName": "net.sanic.Kayuri",
-      "lastUpdated": 1655608552000,
+      "lastUpdated": 1655693872000,
       "localized": {
         "en-US": {
           "whatsNew": "# v1.2.0\n- Fixed Synopsis Not Showing Properly\n- Server Error Fix Fixed\n- Dark Mode Colour Fixes\n- Added Player Controls\n- Large Devices Player Layout Fix"
@@ -109,10 +109,10 @@
       "name": "Kayuri",
       "sourceCode": "https://github.com/Killerpac/Kayuri",
       "summary": "An Anime Watching App With Better player And Faster Servers",
-      "added": 1655608532000,
+      "added": 1655693853000,
       "icon": "net.xblacky.animexstream.8.png",
       "packageName": "net.xblacky.animexstream",
-      "lastUpdated": 1655608532000,
+      "lastUpdated": 1655693853000,
       "localized": {
         "en-US": {
           "whatsNew": "<h2 align=\"center\"><b>Initial Release</b></h2>\n\n* Added Google Servers\n* Added Settings\n* Added Manual Dark Mode Toogle\n* Added PiP Mode Toogle\n\n# Note\nYou Might Need To uninstall the previous Version Of the app in Order To install this Due To different Signatures"
@@ -130,10 +130,10 @@
       "license": "MIT",
       "name": "Kuro",
       "sourceCode": "https://github.com/deceptions/no",
-      "added": 1655608554000,
+      "added": 1655693874000,
       "icon": "com.deceptions.no.tv.4.png",
       "packageName": "com.deceptions.no.tv",
-      "lastUpdated": 1655608636000,
+      "lastUpdated": 1655693951000,
       "localized": {
         "en-US": {
           "whatsNew": "+ Phone only: Added seek preview (togglable in player settings)\n+ Fixed Vidstream (Gogo) extractor which translates to less 'no links found'"
@@ -151,10 +151,10 @@
       "license": "MIT",
       "name": "Kuro",
       "sourceCode": "https://github.com/deceptions/no",
-      "added": 1655608556000,
+      "added": 1655693876000,
       "icon": "com.deceptions.no.4.png",
       "packageName": "com.deceptions.no",
-      "lastUpdated": 1655608619000,
+      "lastUpdated": 1655693934000,
       "localized": {
         "en-US": {
           "whatsNew": "+ Fixed buggy animations\n+ Fixed two player crashes\n+ Layout fixes"
@@ -173,10 +173,10 @@
       "name": "Saikou",
       "sourceCode": "https://github.com/saikou-app/saikou",
       "summary": "An Android Anilist only client, which lets you stream & download Anime & Manga.",
-      "added": 1655608654000,
+      "added": 1655693968000,
       "icon": "ani.saikou.beta.56.png",
       "packageName": "ani.saikou.beta",
-      "lastUpdated": 1655608658000,
+      "lastUpdated": 1655693971000,
       "localized": {
         "en-US": {
           "whatsNew": "# 1.2.0.15\n\n- The last update of the month\n- change some kamyroll stuff\n- Fix 9anime tomfoolery\n- maybe fixed firebase thingy, idk"
@@ -195,10 +195,10 @@
       "name": "Saikou",
       "sourceCode": "https://github.com/saikou-app/saikou",
       "summary": "An Android Anilist only client, which lets you stream & download Anime & Manga.",
-      "added": 1655608637000,
+      "added": 1655693952000,
       "icon": "ani.saikou.53.png",
       "packageName": "ani.saikou",
-      "lastUpdated": 1655608659000,
+      "lastUpdated": 1655693973000,
       "localized": {
         "en-US": {
           "whatsNew": "# 1.2.0.12\n\n- Fixed Some Crashes\n- Fix #216 (Zoro giving source exception after going to next episode)\n- Fix #215 (made 9anime keys dynamic, we wont stop scraping you 9anime)\n"
@@ -209,7 +209,7 @@
   "packages": {
     "ani.saikou": [
       {
-        "added": 1655608653000,
+        "added": 1655693966000,
         "apkName": "saikou_v1.2.0.12.apk",
         "hash": "442008c76169c4e73759f47449ef0a31754b0bca40b41bd2bab879e4ecc3ed59",
         "hashType": "sha256",
@@ -257,7 +257,7 @@
         "versionName": "1.2.0.12"
       },
       {
-        "added": 1655608651000,
+        "added": 1655693965000,
         "apkName": "saikou_v1.2.0.11.apk",
         "hash": "52d374ea5eded4a5fc060026104558430cfc4fdbd5ad5112eb130876e610ba34",
         "hashType": "sha256",
@@ -305,7 +305,7 @@
         "versionName": "1.2.0.11"
       },
       {
-        "added": 1655608649000,
+        "added": 1655693963000,
         "apkName": "saikou_v1.2.0.10.apk",
         "hash": "d2795cd70a0813602e83b87e1be78fc7b7398b86c914952b810dc86381e19422",
         "hashType": "sha256",
@@ -353,7 +353,7 @@
         "versionName": "1.2.0.10"
       },
       {
-        "added": 1655608659000,
+        "added": 1655693973000,
         "apkName": "saikou_v1.2.0.9.apk",
         "hash": "4e0ad99baa95118b2bd8b959e3e3d4f860a5a8358f44a50aced47517d4672afd",
         "hashType": "sha256",
@@ -401,7 +401,7 @@
         "versionName": "1.2.0.9"
       },
       {
-        "added": 1655608648000,
+        "added": 1655693962000,
         "apkName": "saikou_v1.1.6.apk",
         "hash": "649fc8eea1b7eb55fdc5328e8b5d8eae9aa9d04f5bfbd02bf76a167e0f085eb0",
         "hashType": "sha256",
@@ -449,7 +449,7 @@
         "versionName": "1.1.6"
       },
       {
-        "added": 1655608646000,
+        "added": 1655693960000,
         "apkName": "saikou_v1.1.5.apk",
         "hash": "86d497f2d40aca706c9441b4bc22c1903bce50efd79644ca9cc40ad33c8f60b6",
         "hashType": "sha256",
@@ -497,7 +497,7 @@
         "versionName": "1.1.5"
       },
       {
-        "added": 1655608645000,
+        "added": 1655693959000,
         "apkName": "saikou_v1.1.4.apk",
         "hash": "91df1f7235767b5e85916f855df368aee58d266182f876a7cd208dbe5ee242a0",
         "hashType": "sha256",
@@ -545,7 +545,7 @@
         "versionName": "1.1.4"
       },
       {
-        "added": 1655608643000,
+        "added": 1655693958000,
         "apkName": "saikou_v1.1.3.apk",
         "hash": "da018d669e6a1928bdba352b11b75de23fc4130939f0555aaae16093f406b1f3",
         "hashType": "sha256",
@@ -589,7 +589,7 @@
         "versionName": "1.1.3"
       },
       {
-        "added": 1655608642000,
+        "added": 1655693956000,
         "apkName": "saikou_v1.1.2.apk",
         "hash": "c5f9f505d2444ddeb212f58344569ebd4874ec5f0849cf3ad8e3ef449a8a77a5",
         "hashType": "sha256",
@@ -633,7 +633,7 @@
         "versionName": "1.1.2"
       },
       {
-        "added": 1655608640000,
+        "added": 1655693955000,
         "apkName": "saikou_v1.1.1.apk",
         "hash": "b6e9a09210e03590b05e12fa955f7a96d4fd4914dc4336f1fffdebef9e96e448",
         "hashType": "sha256",
@@ -677,7 +677,7 @@
         "versionName": "1.1.1"
       },
       {
-        "added": 1655608639000,
+        "added": 1655693953000,
         "apkName": "saikou_v1.1.0.apk",
         "hash": "38087df273d68069f090fa3f53991fc242d23d0401c92894137d6e9f7ff015c9",
         "hashType": "sha256",
@@ -721,7 +721,7 @@
         "versionName": "1.1.0"
       },
       {
-        "added": 1655608637000,
+        "added": 1655693952000,
         "apkName": "saikou_1.0.10.apk",
         "hash": "4ed45a95850ae98596e961d03ea76d846e65254b73c8ae59861054230e6954b2",
         "hashType": "sha256",
@@ -767,7 +767,7 @@
     ],
     "ani.saikou.beta": [
       {
-        "added": 1655608658000,
+        "added": 1655693971000,
         "apkName": "saikou_v1.2.0.15.apk",
         "hash": "ceaad07cc9496dcec9a90d11d6e2a0b0528c31821f030694fb5df454214a1b32",
         "hashType": "sha256",
@@ -815,7 +815,7 @@
         "versionName": "1.2.0.15"
       },
       {
-        "added": 1655608656000,
+        "added": 1655693969000,
         "apkName": "saikou_v1.2.0.14.apk",
         "hash": "d3f1cf54f154b84efcbbe0c807e42e5f3b40f5fbfb5be8a5e7292bcd05c34f5d",
         "hashType": "sha256",
@@ -863,7 +863,7 @@
         "versionName": "1.2.0.14"
       },
       {
-        "added": 1655608654000,
+        "added": 1655693968000,
         "apkName": "saikou_v1.2.0.13.apk",
         "hash": "4d3b3668e88a420863eb46944dcd3e998fef3a78e48023a1e9fed373a5d84802",
         "hashType": "sha256",
@@ -913,7 +913,7 @@
     ],
     "com.deceptions.no": [
       {
-        "added": 1655608556000,
+        "added": 1655693876000,
         "apkName": "kuro_1.1.4.apk",
         "hash": "419d73c5a4adccf957b09ede2f0a7dce76f1c2c467b66b3abe86e9a373860de1",
         "hashType": "sha256",
@@ -975,7 +975,7 @@
         "versionName": "1.1.4"
       },
       {
-        "added": 1655608577000,
+        "added": 1655693896000,
         "apkName": "kuro_1.5.1.apk",
         "hash": "677b05160b65dc3c3c229d230b83f27b1c903da7eb5aae272cf79f0d7332f790",
         "hashType": "sha256",
@@ -1031,7 +1031,7 @@
         "versionName": "1.5.1-Beta"
       },
       {
-        "added": 1655608604000,
+        "added": 1655693921000,
         "apkName": "kuro_1.8.2.apk",
         "hash": "003eac941a92a284a61bf1fe0dd503a5c2b2592bfee4940e52dba31fc396eadd",
         "hashType": "sha256",
@@ -1101,7 +1101,7 @@
         "versionName": "1.8.2"
       },
       {
-        "added": 1655608619000,
+        "added": 1655693934000,
         "apkName": "kuro_1.9.2.apk",
         "hash": "637d272f9fc5dbc81f70dfd4c5de1893444d3a30f2ebd3a094d4a639dca74ce8",
         "hashType": "sha256",
@@ -1173,7 +1173,7 @@
     ],
     "com.deceptions.no.tv": [
       {
-        "added": 1655608558000,
+        "added": 1655693878000,
         "apkName": "kuro_1.2.0.apk",
         "features": [
           "android.software.leanback"
@@ -1238,7 +1238,7 @@
         "versionName": "1.2.0"
       },
       {
-        "added": 1655608560000,
+        "added": 1655693880000,
         "apkName": "kuro_1.2.1.apk",
         "features": [
           "android.software.leanback"
@@ -1303,7 +1303,7 @@
         "versionName": "1.2.1"
       },
       {
-        "added": 1655608562000,
+        "added": 1655693882000,
         "apkName": "kuro_1.2.2.apk",
         "features": [
           "android.software.leanback"
@@ -1362,7 +1362,7 @@
         "versionName": "1.2.2"
       },
       {
-        "added": 1655608564000,
+        "added": 1655693883000,
         "apkName": "kuro_1.2.3.apk",
         "features": [
           "android.software.leanback"
@@ -1421,7 +1421,7 @@
         "versionName": "1.2.3-Beta"
       },
       {
-        "added": 1655608566000,
+        "added": 1655693885000,
         "apkName": "kuro_1.2.4.apk",
         "features": [
           "android.software.leanback"
@@ -1480,7 +1480,7 @@
         "versionName": "1.2.4"
       },
       {
-        "added": 1655608568000,
+        "added": 1655693887000,
         "apkName": "kuro_1.2.5.apk",
         "features": [
           "android.software.leanback"
@@ -1539,7 +1539,7 @@
         "versionName": "1.2.5-Beta"
       },
       {
-        "added": 1655608570000,
+        "added": 1655693889000,
         "apkName": "kuro_1.3.0.apk",
         "features": [
           "android.software.leanback"
@@ -1598,7 +1598,7 @@
         "versionName": "1.3.0-Beta"
       },
       {
-        "added": 1655608572000,
+        "added": 1655693891000,
         "apkName": "kuro_1.3.1.apk",
         "features": [
           "android.software.leanback"
@@ -1657,7 +1657,7 @@
         "versionName": "1.3.1"
       },
       {
-        "added": 1655608573000,
+        "added": 1655693892000,
         "apkName": "kuro_1.4.0.apk",
         "features": [
           "android.software.leanback"
@@ -1716,7 +1716,7 @@
         "versionName": "1.4.0-Beta"
       },
       {
-        "added": 1655608575000,
+        "added": 1655693894000,
         "apkName": "kuro_1.5.0.apk",
         "features": [
           "android.software.leanback"
@@ -1775,7 +1775,7 @@
         "versionName": "1.5.0-Beta"
       },
       {
-        "added": 1655608579000,
+        "added": 1655693898000,
         "apkName": "kuro_1.5.2.apk",
         "features": [
           "android.software.leanback"
@@ -1834,7 +1834,7 @@
         "versionName": "1.5.2"
       },
       {
-        "added": 1655608581000,
+        "added": 1655693900000,
         "apkName": "kuro_1.5.3.apk",
         "features": [
           "android.software.leanback"
@@ -1893,7 +1893,7 @@
         "versionName": "1.5.3-Beta"
       },
       {
-        "added": 1655608583000,
+        "added": 1655693901000,
         "apkName": "kuro_1.5.4.apk",
         "features": [
           "android.software.leanback"
@@ -1952,7 +1952,7 @@
         "versionName": "1.5.4-Beta"
       },
       {
-        "added": 1655608585000,
+        "added": 1655693903000,
         "apkName": "kuro_1.5.5.apk",
         "features": [
           "android.software.leanback"
@@ -2011,7 +2011,7 @@
         "versionName": "1.5.5"
       },
       {
-        "added": 1655608587000,
+        "added": 1655693905000,
         "apkName": "kuro_1.6.0.apk",
         "features": [
           "android.software.leanback"
@@ -2084,7 +2084,7 @@
         "versionName": "1.6.0-Beta"
       },
       {
-        "added": 1655608589000,
+        "added": 1655693907000,
         "apkName": "kuro_1.6.1.apk",
         "features": [
           "android.software.leanback"
@@ -2157,7 +2157,7 @@
         "versionName": "1.6.1-Beta"
       },
       {
-        "added": 1655608591000,
+        "added": 1655693909000,
         "apkName": "kuro_1.6.2.apk",
         "features": [
           "android.software.leanback"
@@ -2230,7 +2230,7 @@
         "versionName": "1.6.2-Beta"
       },
       {
-        "added": 1655608593000,
+        "added": 1655693911000,
         "apkName": "kuro_1.6.3.apk",
         "features": [
           "android.software.leanback"
@@ -2303,7 +2303,7 @@
         "versionName": "1.6.3-Beta"
       },
       {
-        "added": 1655608595000,
+        "added": 1655693913000,
         "apkName": "kuro_1.6.4.apk",
         "features": [
           "android.software.leanback"
@@ -2376,7 +2376,7 @@
         "versionName": "1.6.4"
       },
       {
-        "added": 1655608597000,
+        "added": 1655693915000,
         "apkName": "kuro_1.6.5.apk",
         "features": [
           "android.software.leanback"
@@ -2449,7 +2449,7 @@
         "versionName": "1.6.5-Beta"
       },
       {
-        "added": 1655608599000,
+        "added": 1655693917000,
         "apkName": "kuro_1.7.0.apk",
         "features": [
           "android.software.leanback"
@@ -2522,7 +2522,7 @@
         "versionName": "1.7.0"
       },
       {
-        "added": 1655608602000,
+        "added": 1655693919000,
         "apkName": "kuro_1.8.1.apk",
         "features": [
           "android.software.leanback"
@@ -2595,7 +2595,7 @@
         "versionName": "1.8.1"
       },
       {
-        "added": 1655608606000,
+        "added": 1655693923000,
         "apkName": "kuro_1.8.3.apk",
         "features": [
           "android.software.leanback"
@@ -2668,7 +2668,7 @@
         "versionName": "1.8.3"
       },
       {
-        "added": 1655608608000,
+        "added": 1655693924000,
         "apkName": "kuro_1.8.4.apk",
         "features": [
           "android.software.leanback"
@@ -2741,7 +2741,7 @@
         "versionName": "1.8.4"
       },
       {
-        "added": 1655608610000,
+        "added": 1655693926000,
         "apkName": "kuro_1.8.5.apk",
         "features": [
           "android.software.leanback"
@@ -2814,7 +2814,7 @@
         "versionName": "1.8.5"
       },
       {
-        "added": 1655608612000,
+        "added": 1655693928000,
         "apkName": "kuro_1.8.6.apk",
         "features": [
           "android.software.leanback"
@@ -2887,7 +2887,7 @@
         "versionName": "1.8.6-Beta"
       },
       {
-        "added": 1655608614000,
+        "added": 1655693930000,
         "apkName": "kuro_1.9.0.apk",
         "features": [
           "android.software.leanback"
@@ -2960,7 +2960,7 @@
         "versionName": "1.9.0-Beta"
       },
       {
-        "added": 1655608616000,
+        "added": 1655693932000,
         "apkName": "kuro_1.9.1.apk",
         "features": [
           "android.software.leanback"
@@ -3033,7 +3033,7 @@
         "versionName": "1.9.1"
       },
       {
-        "added": 1655608621000,
+        "added": 1655693936000,
         "apkName": "kuro_1.9.3.apk",
         "features": [
           "android.software.leanback"
@@ -3106,7 +3106,7 @@
         "versionName": "1.9.3"
       },
       {
-        "added": 1655608623000,
+        "added": 1655693938000,
         "apkName": "kuro_2.0.0.apk",
         "features": [
           "android.software.leanback"
@@ -3179,7 +3179,7 @@
         "versionName": "2.0.0-Beta"
       },
       {
-        "added": 1655608625000,
+        "added": 1655693940000,
         "apkName": "kuro_2.0.1.apk",
         "features": [
           "android.software.leanback"
@@ -3252,7 +3252,7 @@
         "versionName": "2.0.1"
       },
       {
-        "added": 1655608627000,
+        "added": 1655693942000,
         "apkName": "kuro_2.0.2.apk",
         "features": [
           "android.software.leanback"
@@ -3325,7 +3325,7 @@
         "versionName": "2.0.2"
       },
       {
-        "added": 1655608629000,
+        "added": 1655693944000,
         "apkName": "kuro_2.1.0.apk",
         "features": [
           "android.software.leanback"
@@ -3398,7 +3398,7 @@
         "versionName": "2.1.0-Beta"
       },
       {
-        "added": 1655608631000,
+        "added": 1655693946000,
         "apkName": "kuro_2.1.1.apk",
         "features": [
           "android.software.leanback"
@@ -3471,7 +3471,7 @@
         "versionName": "2.1.1"
       },
       {
-        "added": 1655608633000,
+        "added": 1655693948000,
         "apkName": "kuro_2.1.3.apk",
         "features": [
           "android.software.leanback"
@@ -3544,7 +3544,7 @@
         "versionName": "2.1.3"
       },
       {
-        "added": 1655608636000,
+        "added": 1655693951000,
         "apkName": "kuro_2.1.4.apk",
         "features": [
           "android.software.leanback"
@@ -3617,7 +3617,7 @@
         "versionName": "2.1.4"
       },
       {
-        "added": 1655608554000,
+        "added": 1655693874000,
         "apkName": "kuro_1.1.2.apk",
         "features": [
           "android.software.leanback"
@@ -3684,7 +3684,7 @@
     ],
     "com.lagradost.cloudstream3": [
       {
-        "added": 1655608516000,
+        "added": 1655693839000,
         "apkName": "cloudstream3_v2.10.28.apk",
         "hash": "3a3ee1bbb8093156e755568d738d8498a23e91a22b419ee2c5a0e7d56c00024c",
         "hashType": "sha256",
@@ -3748,7 +3748,7 @@
         "versionName": "2.10.28"
       },
       {
-        "added": 1655608531000,
+        "added": 1655693853000,
         "apkName": "cloudstream3_v2.9.24.apk",
         "hash": "fc52d00bcf6b07c01cda56d052d7719692a70645f1f39139be7f6348a9fe77be",
         "hashType": "sha256",
@@ -3808,7 +3808,7 @@
         "versionName": "2.9.24"
       },
       {
-        "added": 1655608529000,
+        "added": 1655693851000,
         "apkName": "cloudstream3_v2.8.16.apk",
         "hash": "fb5f9faa0d8e95e7714b4040cfe276327306b95efe6377b863188c5b6bbf1266",
         "hashType": "sha256",
@@ -3868,7 +3868,7 @@
         "versionName": "2.8.16"
       },
       {
-        "added": 1655608527000,
+        "added": 1655693849000,
         "apkName": "cloudstream3_v2.7.14.apk",
         "hash": "e9196edec72b8896ffda1681436550ffbb2c29ad8cdd80eb8553f332702e3df2",
         "hashType": "sha256",
@@ -3934,7 +3934,7 @@
         "versionName": "2.7.14"
       },
       {
-        "added": 1655608496000,
+        "added": 1655693818000,
         "apkName": "cloudstream3_2.6.9.apk",
         "hash": "bf519f655259fbb701f0e440691a6ad212f31a4fa9071873ad782d158eb0e02a",
         "hashType": "sha256",
@@ -3992,7 +3992,7 @@
         "versionName": "2.6.9"
       },
       {
-        "added": 1655608524000,
+        "added": 1655693847000,
         "apkName": "cloudstream3_v2.5.8.apk",
         "hash": "52caee389ffa29d921d8930b24e0aa8de26ecbdf06eef5ab49b1f3fd69558ef2",
         "hashType": "sha256",
@@ -4050,7 +4050,7 @@
         "versionName": "2.5.8"
       },
       {
-        "added": 1655608522000,
+        "added": 1655693845000,
         "apkName": "cloudstream3_v2.4.7.apk",
         "hash": "45fcc74be7d8be21f66e805aaeb1d6629a402e09ab5613f53f06359287d3b29f",
         "hashType": "sha256",
@@ -4108,7 +4108,7 @@
         "versionName": "2.4.7"
       },
       {
-        "added": 1655608518000,
+        "added": 1655693841000,
         "apkName": "cloudstream3_v2.2.3.apk",
         "hash": "f3fac74c6a22df610e90bf9bd58e2accd0759fa136e652987d959961f56eb133",
         "hashType": "sha256",
@@ -4166,7 +4166,7 @@
         "versionName": "2.2.3"
       },
       {
-        "added": 1655608520000,
+        "added": 1655693843000,
         "apkName": "cloudstream3_v2.3.3.apk",
         "hash": "31dce4545011af6f7498b444f1e6dca3ae75c6a121a2652968759481b521f816",
         "hashType": "sha256",
@@ -4224,7 +4224,7 @@
         "versionName": "2.3.3"
       },
       {
-        "added": 1655608514000,
+        "added": 1655693837000,
         "apkName": "cloudstream3_v2.1.2.apk",
         "hash": "e8ed56a8adabb12bac5f5fc2b3f0c0a7766c6b7e51c4aafc61444b8b602ab1c4",
         "hashType": "sha256",
@@ -4282,7 +4282,7 @@
         "versionName": "2.1.2"
       },
       {
-        "added": 1655608512000,
+        "added": 1655693835000,
         "apkName": "cloudstream3_v2.0.0.apk",
         "hash": "964b3348d4781793a87e6742e7511b4b0a28ea0627e92c6b3f5d646bc0923fa3",
         "hashType": "sha256",
@@ -4340,7 +4340,7 @@
         "versionName": "2.0.0"
       },
       {
-        "added": 1655608510000,
+        "added": 1655693833000,
         "apkName": "cloudstream3_v1.9.9.apk",
         "hash": "8590f36eb316bdec359bbb4396d52f43cb8142bce8c641c977a82d9883a535ef",
         "hashType": "sha256",
@@ -4394,7 +4394,7 @@
         "versionName": "1.9.9"
       },
       {
-        "added": 1655608508000,
+        "added": 1655693830000,
         "apkName": "cloudstream3_v1.7.6.apk",
         "hash": "02e1e8a7a8091e1e2f47335c44e2644f09c18cfcd23c161a37fb2411dc1429a8",
         "hashType": "sha256",
@@ -4448,7 +4448,7 @@
         "versionName": "1.7.6"
       },
       {
-        "added": 1655608506000,
+        "added": 1655693828000,
         "apkName": "cloudstream3_v1.7.5.apk",
         "hash": "875193d56851c80ed12ed4b10eb7b338f66564b1db99b40e7e847d48f4ca0d64",
         "hashType": "sha256",
@@ -4502,7 +4502,7 @@
         "versionName": "1.7.5"
       },
       {
-        "added": 1655608503000,
+        "added": 1655693826000,
         "apkName": "cloudstream3_v1.5.2.apk",
         "hash": "013afc54d65e48fa7ea9f7c3b400498e664435bae10ea68cbaf6996f1ecaab49",
         "hashType": "sha256",
@@ -4556,7 +4556,7 @@
         "versionName": "1.5.2"
       },
       {
-        "added": 1655608502000,
+        "added": 1655693824000,
         "apkName": "cloudstream3_v1.3.0.apk",
         "hash": "9ef46535fc7d7c349f90e1a37a8ec486228c023c693ee2e3b0cb68daca04a0ea",
         "hashType": "sha256",
@@ -4610,7 +4610,7 @@
         "versionName": "1.3.0"
       },
       {
-        "added": 1655608500000,
+        "added": 1655693822000,
         "apkName": "cloudstream3_v1.0.0.apk",
         "hash": "ca17e8c63a21640beb216c0dd048b19f85d55609d87cc29aacef6713f1015ccb",
         "hashType": "sha256",
@@ -4666,7 +4666,7 @@
     ],
     "com.lagradost.cloudstream3.prerelease": [
       {
-        "added": 1655608498000,
+        "added": 1655693820000,
         "apkName": "cloudstream3_pre-release.apk",
         "hash": "2d3359ac9ac581f66cf59bbf40bc31875070b5dfa34bac7c3dbbf69a7bab2e1b",
         "hashType": "sha256",
@@ -4728,7 +4728,7 @@
     ],
     "net.sanic.Kayuri": [
       {
-        "added": 1655608535000,
+        "added": 1655693857000,
         "apkName": "kayuri_v1.2.1.apk",
         "hash": "c2e208514ca19215ac4d64ae0c76c748592db4cac016adce3e2695ce1d4f5aaa",
         "hashType": "sha256",
@@ -4767,7 +4767,7 @@
         "versionName": "1.2.1"
       },
       {
-        "added": 1655608536000,
+        "added": 1655693858000,
         "apkName": "kayuri_v1.2.apk",
         "hash": "c56e7b9130786764e2d72fe21203450b7e972682ca665c5cb6541d4770ed9a2b",
         "hashType": "sha256",
@@ -4806,7 +4806,7 @@
         "versionName": "1.2.0"
       },
       {
-        "added": 1655608537000,
+        "added": 1655693859000,
         "apkName": "kayuri_v1.3.0.apk",
         "hash": "4035eaf7d259cc139044e07980b42678ca613972afd8e33b73e6207e9ede7e71",
         "hashType": "sha256",
@@ -4841,7 +4841,7 @@
         "versionName": "1.3.0"
       },
       {
-        "added": 1655608539000,
+        "added": 1655693860000,
         "apkName": "kayuri_v1.3.1.apk",
         "hash": "ddba9b1ce2f8be311112454ebd4fc2d846263f35ab48b73bd0887f48bfe60c91",
         "hashType": "sha256",
@@ -4876,7 +4876,7 @@
         "versionName": "1.3.1"
       },
       {
-        "added": 1655608540000,
+        "added": 1655693861000,
         "apkName": "kayuri_v1.4.0.apk",
         "hash": "acf7ccd4b88501c91c319270294808b234232af59697de295263766696afabd5",
         "hashType": "sha256",
@@ -4911,7 +4911,7 @@
         "versionName": "1.4.0"
       },
       {
-        "added": 1655608541000,
+        "added": 1655693862000,
         "apkName": "kayuri_v1.5.0.apk",
         "hash": "75f9d6ef19012bccf1813375788dbbc40c3358ba0155c8726ccd15950438354e",
         "hashType": "sha256",
@@ -4946,7 +4946,7 @@
         "versionName": "1.5.0"
       },
       {
-        "added": 1655608542000,
+        "added": 1655693863000,
         "apkName": "kayuri_v1.5.5.apk",
         "hash": "a2872cbecfc93a1dbfdf824b7230e81c28eb4dc4a3187b46d25e28c826e45d99",
         "hashType": "sha256",
@@ -4981,7 +4981,7 @@
         "versionName": "1.5.5"
       },
       {
-        "added": 1655608544000,
+        "added": 1655693865000,
         "apkName": "kayuri_v1.5.7.apk",
         "hash": "a32455467d240f43736a8b36b5c7b246007d0d4ad7d545df632515e8e9b4987f",
         "hashType": "sha256",
@@ -5016,7 +5016,7 @@
         "versionName": "1.5.7"
       },
       {
-        "added": 1655608545000,
+        "added": 1655693866000,
         "apkName": "kayuri_v1.6.0.apk",
         "hash": "21f2b1b4c2614c80e55e87d457ca51b04ddc572c041c264ca58f992390ff3da7",
         "hashType": "sha256",
@@ -5051,7 +5051,7 @@
         "versionName": "1.6.0"
       },
       {
-        "added": 1655608546000,
+        "added": 1655693867000,
         "apkName": "kayuri_v1.6.1.apk",
         "hash": "fb6aa3b5597c84380eaacf012c90a6ba5b4a693794d38add19c8c4c2dbd73f02",
         "hashType": "sha256",
@@ -5086,7 +5086,7 @@
         "versionName": "1.6.1"
       },
       {
-        "added": 1655608548000,
+        "added": 1655693868000,
         "apkName": "kayuri_v1.6.5.apk",
         "hash": "c703ce6717153b532e9546c86fc3cde42f4f87ced8fcf905746741dcfbd72a52",
         "hashType": "sha256",
@@ -5121,7 +5121,7 @@
         "versionName": "1.6.5"
       },
       {
-        "added": 1655608549000,
+        "added": 1655693870000,
         "apkName": "kayuri_v1.7.5.apk",
         "hash": "c0824134fc2c3bf4bf31540e348d9d14c1de08b352e6b5ed1825d033ad8ac081",
         "hashType": "sha256",
@@ -5156,7 +5156,7 @@
         "versionName": "1.7.5"
       },
       {
-        "added": 1655608550000,
+        "added": 1655693871000,
         "apkName": "kayuri_v1.7.7.apk",
         "hash": "f050bbdee3062bd74c0145df0729e2de0d69219c72237f4c72c548f168b221d0",
         "hashType": "sha256",
@@ -5191,7 +5191,7 @@
         "versionName": "1.7.7"
       },
       {
-        "added": 1655608552000,
+        "added": 1655693872000,
         "apkName": "kayuri_v1.7.8.apk",
         "hash": "560d8166a1f45ce64d24329c779d88c9c38fca7a68f0eae962557878f000b237",
         "hashType": "sha256",
@@ -5226,7 +5226,7 @@
         "versionName": "1.7.8"
       },
       {
-        "added": 1655608533000,
+        "added": 1655693854000,
         "apkName": "kayuri_v1.0.0.apk",
         "hash": "581e7a8fe183cf3d9b51281049200bbe3fef00fb2b87868c70de8e86ffd20ae9",
         "hashType": "sha256",
@@ -5253,7 +5253,7 @@
         "versionName": "1.0.0"
       },
       {
-        "added": 1655608534000,
+        "added": 1655693856000,
         "apkName": "kayuri_v1.2.0.apk",
         "hash": "6bcd0f8381db753a957e5bddfac1773efb1a372c9cb95748c59573f6dda134b2",
         "hashType": "sha256",
@@ -5282,7 +5282,7 @@
     ],
     "net.xblacky.animexstream": [
       {
-        "added": 1655608532000,
+        "added": 1655693853000,
         "apkName": "kayuri_v0.3.0-beta.apk",
         "hash": "9034bbcefd9bbe1d18794ba65044500a29bb9dba087366672a1e5157f647b661",
         "hashType": "sha256",
@@ -5311,7 +5311,7 @@
     ],
     "xyz.jmir.tachiyomi.mi": [
       {
-        "added": 1655608494000,
+        "added": 1655693816000,
         "apkName": "aniyomi_v0.12.3.6.apk",
         "hash": "086d7ff4f516c0a599db9494816fd84644cd893d9d12556d854bfdd1f063b8e5",
         "hashType": "sha256",
@@ -5402,7 +5402,7 @@
         "versionName": "0.12.3.6"
       },
       {
-        "added": 1655608482000,
+        "added": 1655693805000,
         "apkName": "aniyomi_v0.12.3.3.apk",
         "hash": "d90fa283f00d9d536a20819ba3c4a6d1350a413102875949d8fc07a62ee0d535",
         "hashType": "sha256",
@@ -5489,7 +5489,7 @@
         "versionName": "0.12.3.3"
       },
       {
-        "added": 1655608486000,
+        "added": 1655693809000,
         "apkName": "aniyomi_v0.12.3.4.apk",
         "hash": "ad1bc19b4681a1cae0750699ea725e52563f6f6d783c85089dba4211ca910d35",
         "hashType": "sha256",
@@ -5576,7 +5576,7 @@
         "versionName": "0.12.3.4"
       },
       {
-        "added": 1655608490000,
+        "added": 1655693812000,
         "apkName": "aniyomi_v0.12.3.5.apk",
         "hash": "9560ae5fd3e830199ab80b43e89f6645a679141b02768ac4d557861f3329ae19",
         "hashType": "sha256",
@@ -5663,7 +5663,7 @@
         "versionName": "0.12.3.5"
       },
       {
-        "added": 1655608475000,
+        "added": 1655693799000,
         "apkName": "aniyomi_v0.12.3.1.apk",
         "hash": "7075d6cceba12bf635cf86a9ebe39e7a0f0a16b9c1a4dfbd491a1df4872e2b3f",
         "hashType": "sha256",
@@ -5750,7 +5750,7 @@
         "versionName": "0.12.3.1"
       },
       {
-        "added": 1655608479000,
+        "added": 1655693802000,
         "apkName": "aniyomi_v0.12.3.2.apk",
         "hash": "b6871f6a30271389f36b36cfa95bf3103fafa33b45df24f5abe4ed684a7333ff",
         "hashType": "sha256",
@@ -5837,7 +5837,7 @@
         "versionName": "0.12.3.2"
       },
       {
-        "added": 1655608460000,
+        "added": 1655693784000,
         "apkName": "aniyomi_v0.12.2.1.apk",
         "hash": "9ccc1968f1a4cc290b48513e34dc9727dc676ab219a6125d4254f63a58d2e8bf",
         "hashType": "sha256",
@@ -5916,7 +5916,7 @@
         "versionName": "0.12.2.3"
       },
       {
-        "added": 1655608463000,
+        "added": 1655693786000,
         "apkName": "aniyomi_v0.12.2.2.apk",
         "hash": "5948d89f925c15ee512c0df240a500cc1ad30b407f077a79854f29b9b310abef",
         "hashType": "sha256",
@@ -5995,7 +5995,7 @@
         "versionName": "0.12.2.2"
       },
       {
-        "added": 1655608466000,
+        "added": 1655693789000,
         "apkName": "aniyomi_v0.12.2.3.apk",
         "hash": "ba31e80739ade3b8dd2f8b22dbe31e046e3d59a2a1d29ddcd9068472af5bfec3",
         "hashType": "sha256",
@@ -6074,7 +6074,7 @@
         "versionName": "0.12.2.3"
       },
       {
-        "added": 1655608469000,
+        "added": 1655693793000,
         "apkName": "aniyomi_v0.12.2.4.apk",
         "hash": "35b881d7709ac858575aa4e9930f524d7656ad2e3fba61fd1bd13f853d5e7335",
         "hashType": "sha256",
@@ -6161,7 +6161,7 @@
         "versionName": "0.12.2.4"
       },
       {
-        "added": 1655608472000,
+        "added": 1655693796000,
         "apkName": "aniyomi_v0.12.2.5.apk",
         "hash": "4725271cb7f9144f45bde3142fdad61eec95d11be0a0a6cc24abc159490f6bb4",
         "hashType": "sha256",
@@ -6248,7 +6248,7 @@
         "versionName": "0.12.2.5"
       },
       {
-        "added": 1655608450000,
+        "added": 1655693774000,
         "apkName": "aniyomi_v0.12.1.1.apk",
         "hash": "642603a15da6727d0d70a9eb1a000cc41b2991ed1634cbbacb35c36e971807e6",
         "hashType": "sha256",
@@ -6329,7 +6329,7 @@
         "versionName": "0.12.1.1"
       },
       {
-        "added": 1655608453000,
+        "added": 1655693777000,
         "apkName": "aniyomi_v0.12.1.2.apk",
         "hash": "56fd1643c0756295270ba30fbddee4d76e7dcbd5269fbb5c854bc0fe47f9e04e",
         "hashType": "sha256",
@@ -6408,7 +6408,7 @@
         "versionName": "0.12.1.2"
       },
       {
-        "added": 1655608456000,
+        "added": 1655693780000,
         "apkName": "aniyomi_v0.12.1.3.apk",
         "hash": "a5688ec1da17bfaf185733e5c6dda39e929c3a45d2e5e69d2761e7602c304783",
         "hashType": "sha256",
@@ -6487,7 +6487,7 @@
         "versionName": "0.12.1.3"
       },
       {
-        "added": 1655608413000,
+        "added": 1655693739000,
         "apkName": "aniyomi_v0.11.1.10.apk",
         "hash": "07f9bef5b891062f45e073b1bf87f752bd4a7e1e5dfeb0fcb0fc58adc051f313",
         "hashType": "sha256",
@@ -6569,7 +6569,7 @@
         "versionName": "0.11.1.10"
       },
       {
-        "added": 1655608417000,
+        "added": 1655693743000,
         "apkName": "aniyomi_v0.11.1.11.apk",
         "hash": "a359603181125da36a922baaf4ef3080163bbe2f57817ddb99f74378d90d4206",
         "hashType": "sha256",
@@ -6651,7 +6651,7 @@
         "versionName": "0.11.1.11"
       },
       {
-        "added": 1655608442000,
+        "added": 1655693767000,
         "apkName": "aniyomi_v0.11.1.8.apk",
         "hash": "698179163aafc2508e966da24612bbfbfb52d7cb9b83f8fef929918e7ebb5c2e",
         "hashType": "sha256",
@@ -6733,7 +6733,7 @@
         "versionName": "0.11.1.8"
       },
       {
-        "added": 1655608446000,
+        "added": 1655693771000,
         "apkName": "aniyomi_v0.11.1.9.apk",
         "hash": "14c8507fa26ec67a3e461aef43566668dd4a3630ed1af1f092f49cc624c4f724",
         "hashType": "sha256",
@@ -6815,7 +6815,7 @@
         "versionName": "0.11.1.9"
       },
       {
-        "added": 1655608405000,
+        "added": 1655693731000,
         "apkName": "aniyomi_v0.11.1.0-mi.apk",
         "hash": "254a3e5d242e05d47941c95df8bafffe7ae386222ad8898f370c93ad2a32bf05",
         "hashType": "sha256",
@@ -6896,7 +6896,7 @@
         "versionName": "0.11.1.0-mi"
       },
       {
-        "added": 1655608408000,
+        "added": 1655693734000,
         "apkName": "aniyomi_v0.11.1.1-mi.apk",
         "hash": "fc0a74369a6ba6699db58df24527ac44b79fe70cfd0bbd6635cbe5713c65a16d",
         "hashType": "sha256",
@@ -6977,7 +6977,7 @@
         "versionName": "0.11.1.1-mi"
       },
       {
-        "added": 1655608421000,
+        "added": 1655693746000,
         "apkName": "aniyomi_v0.11.1.2-mi.apk",
         "hash": "37e642b12fa56261fbf887845439fc22074294395ad3409503fcd329138a364e",
         "hashType": "sha256",
@@ -7059,7 +7059,7 @@
         "versionName": "0.11.1.2-mi"
       },
       {
-        "added": 1655608424000,
+        "added": 1655693750000,
         "apkName": "aniyomi_v0.11.1.3-mi.apk",
         "hash": "ae7a175b80ffe69d94c3458dc9d08fa26463355a5fa8f1c8e35cfdd525197505",
         "hashType": "sha256",
@@ -7141,7 +7141,7 @@
         "versionName": "0.11.1.3-mi"
       },
       {
-        "added": 1655608428000,
+        "added": 1655693753000,
         "apkName": "aniyomi_v0.11.1.4-mi.apk",
         "hash": "967e1d4b1644445ed605d071c3ded5ce552b956392029669bb843f1d58002da8",
         "hashType": "sha256",
@@ -7223,7 +7223,7 @@
         "versionName": "0.11.1.4-mi"
       },
       {
-        "added": 1655608432000,
+        "added": 1655693757000,
         "apkName": "aniyomi_v0.11.1.5-mi.apk",
         "hash": "b98e0f9c9ed5b27e3962ca21b5a28f42673a4ae2e2348c32adacbc7894c96e4b",
         "hashType": "sha256",
@@ -7305,7 +7305,7 @@
         "versionName": "0.11.1.5-mi"
       },
       {
-        "added": 1655608435000,
+        "added": 1655693760000,
         "apkName": "aniyomi_v0.11.1.6-mi.apk",
         "hash": "f73f110c821c14bfcfcda97ec20986d96fe3b25f936bb85d036f052f96dc898c",
         "hashType": "sha256",
@@ -7387,7 +7387,7 @@
         "versionName": "0.11.1.5-mi"
       },
       {
-        "added": 1655608439000,
+        "added": 1655693764000,
         "apkName": "aniyomi_v0.11.1.7.apk",
         "hash": "5b412d7c28a97fd56412a78e8244ae6f9dfbdc6cfcc9e791e813c307e61f597d",
         "hashType": "sha256",
@@ -7469,7 +7469,7 @@
         "versionName": "0.11.1.7"
       },
       {
-        "added": 1655608385000,
+        "added": 1655693713000,
         "apkName": "aniyomi_v0.10.12-mi.apk",
         "hash": "8d06570e479e3dc44a08e3191b5782db919b6157f49eacafe055be96d8ba5ef8",
         "hashType": "sha256",
@@ -7550,7 +7550,7 @@
         "versionName": "0.10.12-mi"
       },
       {
-        "added": 1655608389000,
+        "added": 1655693716000,
         "apkName": "aniyomi_v0.10.12.1-mi.apk",
         "hash": "06ff3e9b516338c9ebce4d19d1b3fadb7063cfda7d9e60bdfb1615e92318e13e",
         "hashType": "sha256",
@@ -7631,7 +7631,7 @@
         "versionName": "0.10.12-mi"
       },
       {
-        "added": 1655608392000,
+        "added": 1655693719000,
         "apkName": "aniyomi_v0.10.12.2-mi.apk",
         "hash": "ea8842c4b61c5fedc4d3bf650a8be56b93ff1a5e00c539273ccf324b6ec67611",
         "hashType": "sha256",
@@ -7712,7 +7712,7 @@
         "versionName": "0.10.12.2-mi"
       },
       {
-        "added": 1655608395000,
+        "added": 1655693722000,
         "apkName": "aniyomi_v0.10.12.3-mi.apk",
         "hash": "c84bece8b1d4eefaa4bac985cb88ed90111b3804185fb03b85a3faa1953e9f28",
         "hashType": "sha256",
@@ -7793,7 +7793,7 @@
         "versionName": "0.10.12.3-mi"
       },
       {
-        "added": 1655608399000,
+        "added": 1655693725000,
         "apkName": "aniyomi_v0.10.12.4-mi.apk",
         "hash": "46f96530f16aa16681baa3f75704f6ca05216872fd0d22a8196be797c1deb7fa",
         "hashType": "sha256",
@@ -7874,7 +7874,7 @@
         "versionName": "0.10.12.4-mi"
       },
       {
-        "added": 1655608402000,
+        "added": 1655693728000,
         "apkName": "aniyomi_v0.10.12.5-mi.apk",
         "hash": "c0d34faa502552030ed72d865585d84534f04bee43df481a53fba78082776f68",
         "hashType": "sha256",
@@ -7955,7 +7955,7 @@
         "versionName": "0.10.12.5-mi"
       },
       {
-        "added": 1655608382000,
+        "added": 1655693710000,
         "apkName": "aniyomi_v0.10.11-mi.apk",
         "hash": "2d931ffe5a8547227b0180008e80a6571ebd76ebfc7a77a892ccbe345dae6281",
         "hashType": "sha256",
